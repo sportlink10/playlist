@@ -3929,11 +3929,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTamil_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790199746~exp=1790203346~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=45286d4bdda4576c6f5140f381b9b2b57f40baf18967a231fe695e5cd9cf3508
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790203259~exp=1790206859~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=82ab7722b08a99043aadcc90cdcd9aa3cd7bbd9cfbb7ce0812e45d996cfad393
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790199746~exp=1790203346~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=45286d4bdda4576c6f5140f381b9b2b57f40baf18967a231fe695e5cd9cf3508
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790199746~exp=1790203346~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=45286d4bdda4576c6f5140f381b9b2b57f40baf18967a231fe695e5cd9cf3508"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790203259~exp=1790206859~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=82ab7722b08a99043aadcc90cdcd9aa3cd7bbd9cfbb7ce0812e45d996cfad393
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790203259~exp=1790206859~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=82ab7722b08a99043aadcc90cdcd9aa3cd7bbd9cfbb7ce0812e45d996cfad393"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Tamil",Puthu Yugam
