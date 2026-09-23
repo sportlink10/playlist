@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "12:07:11 AM 24-09-2026",
-    "generated_at": "2026-09-23 18:45:38",
+    "source_last_updated": "12:17:20 AM 24-09-2026",
+    "generated_at": "2026-09-23 18:55:10",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 38,
-    "live_matches_count": 4,
-    "upcoming_matches_count": 34,
+    "live_matches_count": 6,
+    "upcoming_matches_count": 32,
     "matches": [
         {
             "event_category": "Cricket",
@@ -87,6 +87,44 @@
             ]
         },
         {
+            "event_category": "Football",
+            "match_id": "4249475_ENG",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Chelsea F.C. Women vs Austria Wien Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Austria Wien Women",
+            "status": "LIVE",
+            "startTime": "12:30:00 AM 24-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249475_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249476_ENG",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Barcelona Women vs Paris FC Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249476_53078_BAR-W_PFC-W_fc-web.jpg",
+            "team_1": "Barcelona Women",
+            "team_2": "Paris FC Women",
+            "status": "LIVE",
+            "startTime": "12:30:00 AM 24-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249476_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4249778,
             "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
@@ -110,32 +148,6 @@
             "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249475,
-            "title": "Chelsea F.C. Women vs Austria Wien Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Austria Wien Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Austria Wien Women",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249476,
-            "title": "Barcelona Women vs Paris FC Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Barcelona Women vs Paris FC Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249476_53078_BAR-W_PFC-W_fc-web.jpg",
-            "team_1": "Barcelona Women",
-            "team_2": "Paris FC Women",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 24-09-2026",
             "user-agent": null
         },
         {
@@ -605,6 +617,44 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249474_ENG/english.m3u8"
                 }
             ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249475_ENG",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Chelsea F.C. Women vs Austria Wien Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Austria Wien Women",
+            "status": "LIVE",
+            "startTime": "12:30:00 AM 24-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249475_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249476_ENG",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Barcelona Women vs Paris FC Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249476_53078_BAR-W_PFC-W_fc-web.jpg",
+            "team_1": "Barcelona Women",
+            "team_2": "Paris FC Women",
+            "status": "LIVE",
+            "startTime": "12:30:00 AM 24-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249476_ENG/english.m3u8"
+                }
+            ]
         }
     ],
     "upcoming_matches": [
@@ -632,32 +682,6 @@
             "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249475,
-            "title": "Chelsea F.C. Women vs Austria Wien Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Chelsea F.C. Women vs Austria Wien Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Austria Wien Women",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249476,
-            "title": "Barcelona Women vs Paris FC Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Barcelona Women vs Paris FC Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249476_53078_BAR-W_PFC-W_fc-web.jpg",
-            "team_1": "Barcelona Women",
-            "team_2": "Paris FC Women",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 24-09-2026",
             "user-agent": null
         },
         {
