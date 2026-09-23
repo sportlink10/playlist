@@ -2201,8 +2201,8 @@ https://onekey.virey40690.workers.dev/mpd/1325
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1332
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790184197~exp=1790187797~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=04c41d879aacc46336e645e53eb057f180dcb11667992dc72a78b98d8dffb0d4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790184197~exp=1790187797~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=04c41d879aacc46336e645e53eb057f180dcb11667992dc72a78b98d8dffb0d4
+#EXTHTTP:{"cookie":"st=1790187797~exp=1790191397~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=684d0616d3bf90985886cbb2e1770aad2a1b70203f1b03778e51f59aa1e4df60","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790187797~exp=1790191397~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=684d0616d3bf90985886cbb2e1770aad2a1b70203f1b03778e51f59aa1e4df60
 
 #EXTINF:-1 tvg-id="1335" group-title="JIO ⭕|English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png",National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4852,8 +4852,8 @@ https://onekey.virey40690.workers.dev/mpd/185
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/415
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790184192~exp=1790187792~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=ea90349f9d3678bbc80eb675f98d8a671cfc94cf2567e26eba7fce646b1fa204","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790184192~exp=1790187792~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=ea90349f9d3678bbc80eb675f98d8a671cfc94cf2567e26eba7fce646b1fa204
+#EXTHTTP:{"cookie":"st=1790187792~exp=1790191392~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=086695203e14414576f20fe26dbe1f93e181da06f9b3fd1a02874d5d388798f8","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790187792~exp=1790191392~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=086695203e14414576f20fe26dbe1f93e181da06f9b3fd1a02874d5d388798f8
 
 #EXTINF:-1 tvg-id="476" group-title="JIO ⭕|Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
