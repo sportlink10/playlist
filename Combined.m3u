@@ -16,16 +16,9 @@ https://dai-fancode.pages.dev/mumbai/4249473_english_hls_c268ffd0ba13930_1ta-di_
 #EXTINF:-1 tvg-id="4249474" tvg-name="Servette Women Vs Ol Lyonnes @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249474_53078_SVT-W_OLY-W_fc-web_1790067154527.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Servette Women Vs Ol Lyonnes
 https://dai-fancode.pages.dev/mumbai/4249474_english_hls_06c39b7f6179356_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (2 channels) =====
-#EXTINF:-1 tvg-name="Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG] - UEFA International Friendlies @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790026803564502_UEFA_INT_friendly_MD1_Azerbaijan_vs_Tajikstan_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG] - UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227976~acl=/*~id=77857080411161143692344479148380~hmac=ee013fa067c00a5874bc3edd1650873e7f8febf1ab4367f0bee5608127bfc32a
-
-#EXTINF:-1 tvg-name="Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 [ENG] - UEFA International Friendlies @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027249384502_UEFA_INT_friendly_MD1_Gibraltar_vs_Sao_Tome_and_Principe_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 [ENG] - UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790227976~acl=/*~id=77857080411161143692344479148380~hmac=ee013fa067c00a5874bc3edd1650873e7f8febf1ab4367f0bee5608127bfc32a
-
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:32 PM 23-09-2026
+#LAST_UPDATE:12:02 AM 24-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -33,7 +26,7 @@ https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-8003
 
 #===== Prime Video | Sportlink (3 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:32 PM 23-09-2026
+#LAST_UPDATE:12:02 AM 24-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -51,54 +44,39 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7ph
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
-#===== AXS | Sportlink (11 channels) =====
+#===== AXS | Sportlink (9 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:32:28 PM 23-09-2026
-
-#EXTINF:-1 tvg-name="Players Championship 30 - Den Bosch - Players Championship @virat10" tvg-id="66647" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2030%20-%20Den%20Bosch.jpg" group-title="AXS | Sportlink", Players Championship 30 - Den Bosch - Players Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1790271151-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3e96baaea3bf576dd916bd387ffed261
+#last update time: 12:02:25 AM 24-09-2026
 
 #EXTINF:-1 tvg-name="Birmingham Legion vs Brooklyn - USL Championship @virat10" tvg-id="66184" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Birmingham%20Legion%20vs%20Brooklyn.jpg" group-title="AXS | Sportlink", Birmingham Legion vs Brooklyn - USL Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a05/chunks.m3u8?is_vip=false&token=1790271157-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a9c09933a4e6e5ef7a3cb690ee5b4619
-
-#EXTINF:-1 tvg-name="Azerbaijan vs Tajikistan - Friendlies @virat10" tvg-id="66181" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20vs%20Tajikistan.jpg" group-title="AXS | Sportlink", Azerbaijan vs Tajikistan - Friendlies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb2/chunks.m3u8?is_vip=false&token=1790271165-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-28ff54abcf33fd0caf809c5fb1940c1c
-
-#EXTINF:-1 tvg-name="Gibraltar vs Sao Tome and Principe - Friendlies @virat10" tvg-id="70863" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20vs%20Sao%20Tome%20and%20Principe.jpg" group-title="AXS | Sportlink", Gibraltar vs Sao Tome and Principe - Friendlies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb1/chunks.m3u8?is_vip=false&token=1790271176-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-06b32a8ac0fa72692084859e712dd449
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a05/chunks.m3u8?is_vip=false&token=1790272948-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-32a721748566c6d049fc1c98b030c237
 
 #EXTINF:-1 tvg-name="OH Leuven W vs Roma W - UEFA Champions League Women [Server 1] @virat10" tvg-id="66156" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/OH%20Leuven%20W%20vs%20Roma%20W.jpg" group-title="AXS | Sportlink", OH Leuven W vs Roma W - UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28-fancode/chunks.m3u8?is_vip=false&token=1790271183-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-843b9cee78f7d59d734ae3e96825800f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28-fancode/chunks.m3u8?is_vip=false&token=1790272954-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7eef13fdda3e2e2442c638e853141106
 
 #EXTINF:-1 tvg-name="OH Leuven W vs Roma W - UEFA Champions League Women [Server 2] @virat10" tvg-id="66156" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/OH%20Leuven%20W%20vs%20Roma%20W.jpg" group-title="AXS | Sportlink", OH Leuven W vs Roma W - UEFA Champions League Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28/chunks.m3u8?is_vip=false&token=1790271193-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cd413fcdd9e7ede35f5337b4527a4067
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f28/chunks.m3u8?is_vip=false&token=1790272958-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-291fbdac0bfe3639f3fb2fd5a1b3c0d3
 
 #EXTINF:-1 tvg-name="Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 1] @virat10" tvg-id="66173" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Servette%20Ch%C3%AAnois%20W%20vs%20Lyon%20W.jpg" group-title="AXS | Sportlink", Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f27-fancode/chunks.m3u8?is_vip=false&token=1790271200-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-63e99d86913add29cb72aacee03b84e8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f27-fancode/chunks.m3u8?is_vip=false&token=1790272964-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9848e3b72e67eeac0fc5679cd56a5021
 
 #EXTINF:-1 tvg-name="Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 2] @virat10" tvg-id="66173" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Servette%20Ch%C3%AAnois%20W%20vs%20Lyon%20W.jpg" group-title="AXS | Sportlink", Servette Chênois W vs Lyon W - UEFA Champions League Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f27/chunks.m3u8?is_vip=false&token=1790271204-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0b3851805d4ced276c3886ea721a70b1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f27/chunks.m3u8?is_vip=false&token=1790272970-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-03271f96f6f28b0f62a184e065cceb34
 
 #EXTINF:-1 tvg-name="France U21 vs Austria U18 - Friendlies @virat10" tvg-id="73905" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France%20U21%20vs%20Austria%20U18.jpg" group-title="AXS | Sportlink", France U21 vs Austria U18 - Friendlies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -108,7 +86,12 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab15ba97cb66c539a101fb5/chu
 #EXTINF:-1 tvg-name="Washington Nationals vs Detroit Tigers - MLB @virat10" tvg-id="67515" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg" group-title="AXS | Sportlink", Washington Nationals vs Detroit Tigers - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790271221-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5d5477afa3a1e80e553bec6082d70cef
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790272992-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e2546fb6d71e9b69bbcaaad4645b2fc7
+
+#EXTINF:-1 tvg-name="Saudi Arabia vs Kuwait - Gulf Cup of Nations @virat10" tvg-id="66192" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saudi%20Arabia%20vs%20Kuwait.jpg" group-title="AXS | Sportlink", Saudi Arabia vs Kuwait - Gulf Cup of Nations
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a1d/chunks.m3u8?is_vip=false&token=1790272998-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-df56df387108434ab8435a75ec31e26c
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
