@@ -7,72 +7,38 @@
 #EXTINF:-1 tvg-id="4249104" tvg-name="Day 1   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 1   World Feed
 https://dai-fancode.pages.dev/mumbai/4249104_english_hls_ab66a4f3b412868_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== Willow | Sportlink (2 channels) =====
+#===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:02 AM 25-09-2026
+#LAST_UPDATE:03:32 AM 25-09-2026
+#TELEGRAM:https://t.me/livesportsplay
+#OWNER:Md Sohanur Rahman Hady
+#LIVE_COUNT:0
+#UPCOMING_COUNT:15
+
+#===== Prime Video | Sportlink (1 channels) =====
+#PLAYLIST:Prime Video Free Sports
+#LAST_UPDATE:03:32 AM 25-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
-#UPCOMING_COUNT:15
-
-#EXTINF:-1 tvg-id="B0HJ6CK45R" tvg-name="Sri Lanka tour of England 2026 - 2nd ODI - England vs Sri Lanka @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1fbb0170-7e6e-48b2-8d49-96d6e327094c/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Sri Lanka tour of England 2026 - 2nd ODI - England vs Sri Lanka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3qedwpltfa/out/v1/cc4dcca6d4434946bc70737267ffed31/cenc.mpd
-
-#===== Prime Video | Sportlink (2 channels) =====
-#PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:02 AM 25-09-2026
-#TELEGRAM:https://t.me/livesportsplay
-#OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
 #UPCOMING_COUNT:0
 
-#EXTINF:-1 tvg-id="B0HK85K47Y" tvg-name="Serbia vs. Greece @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f68359f3-6141-41c9-985c-d9ea506495a7/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video | Sportlink",Serbia vs. Greece
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
-
-#===== AXS | Sportlink (7 channels) =====
+#===== AXS | Sportlink (3 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:02:25 AM 25-09-2026
-
-#EXTINF:-1 tvg-name="Texas Rangers vs New York Mets - MLB @virat10" tvg-id="79187" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20New%20York%20Mets.jpg" group-title="AXS | Sportlink", Texas Rangers vs New York Mets - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790370149-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d903a6606856e7c3d114258ad236d6c6
+#last update time: 3:32:24 AM 25-09-2026
 
 #EXTINF:-1 tvg-name="Colorado Rockies vs Arizona Diamondbacks - MLB @virat10" tvg-id="79188" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20Arizona%20Diamondbacks.jpg" group-title="AXS | Sportlink", Colorado Rockies vs Arizona Diamondbacks - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790370155-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ca02315bc2297f9b3f104a607b5c5ff2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790371947-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-efa106350f0f34b2e499948749739654
 
 #EXTINF:-1 tvg-name="Chicago | Day 1 - PGA Tour @virat10" tvg-id="67556" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20%20Day%201.jpg" group-title="AXS | Sportlink", Chicago | Day 1 - PGA Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790370161-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-937c320a732d02c4551b1097c408c669
-
-#EXTINF:-1 tvg-name="Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas - EuroLeague @virat10" tvg-id="67546" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crvena%20Zvezda%20Meridianbet%20Belgrade%20vs%20Zalgiris%20Kaunas.jpg" group-title="AXS | Sportlink", Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas - EuroLeague
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790370166-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a14321dc54cc66f7e74b12f1c18b81fc
-
-#EXTINF:-1 tvg-name="Panathinaikos AKTOR Athens vs Paris Basketball - EuroLeague @virat10" tvg-id="67547" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panathinaikos%20AKTOR%20Athens%20vs%20Paris%20Basketball.jpg" group-title="AXS | Sportlink", Panathinaikos AKTOR Athens vs Paris Basketball - EuroLeague
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790370172-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-87d870166c0960cdad53dbce2565720e
-
-#EXTINF:-1 tvg-name="FC Barcelona vs Anadolu Efes Istanbul - EuroLeague @virat10" tvg-id="67549" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Barcelona%20vs%20Anadolu%20Efes%20Istanbul.jpg" group-title="AXS | Sportlink", FC Barcelona vs Anadolu Efes Istanbul - EuroLeague
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790369301-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b58f7b5e1c7b24b141c5a0e778082477
+https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790371953-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-26a6ed3c92aa6be872f3fa6bf5ebe541
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
