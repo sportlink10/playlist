@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: sports-json-updater
+  cancel-in-progress: false
+
 jobs:
   update-file:
     runs-on: ubuntu-latest
@@ -85,4 +89,15 @@ jobs:
             fancode.txt
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Sports DB Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
-          git push origin main
+
+          for i in 1 2 3 4 5; do
+            if git push origin main; then
+              echo "✅ Pushed successfully"
+              exit 0
+            fi
+            echo "⚠️ Push rejected (attempt $i), rebasing and retrying..."
+            git pull origin main --rebase
+            sleep $((RANDOM % 5 + 1))
+          done
+          echo "❌ Push failed after 5 attempts"
+          exit 1
