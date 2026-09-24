@@ -6557,11 +6557,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=284db1a465ee50c081b7fa9735c4e000:26d05a4a82a0d6eb317dd861a06d746c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790282636~exp=1790286236~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=92c5b037c9ca952bab5deae100c3ae34562c8944cade97659074834b1b3b78f9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790286234~exp=1790289834~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=071677dcb32f7b271c622c95993040b44b6362ddc07ee6c07dbd8a31da47d3ef
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790282636~exp=1790286236~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=92c5b037c9ca952bab5deae100c3ae34562c8944cade97659074834b1b3b78f9
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790282636~exp=1790286236~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=92c5b037c9ca952bab5deae100c3ae34562c8944cade97659074834b1b3b78f9"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790286234~exp=1790289834~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=071677dcb32f7b271c622c95993040b44b6362ddc07ee6c07dbd8a31da47d3ef
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790286234~exp=1790289834~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=071677dcb32f7b271c622c95993040b44b6362ddc07ee6c07dbd8a31da47d3ef"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" group-title="Telugu",Zee Telugu HD
@@ -11985,11 +11985,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b7d579e28d45041ba78c3a92f0acc92:fbf33acfca489b1354955cbfb09570b5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790264434~exp=1790286034~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=71b67d3d25c3e7be96bafbab8f5d73f75e34472c34be06b770fba0f0d5c5b239
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790286319~exp=1790307919~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=80039143cbcd3f6c0bda637cbe788dc31eccd7dbb449cc129e1c7d06aa9a349c
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790264434~exp=1790286034~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=71b67d3d25c3e7be96bafbab8f5d73f75e34472c34be06b770fba0f0d5c5b239
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790264434~exp=1790286034~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=71b67d3d25c3e7be96bafbab8f5d73f75e34472c34be06b770fba0f0d5c5b239"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790286319~exp=1790307919~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=80039143cbcd3f6c0bda637cbe788dc31eccd7dbb449cc129e1c7d06aa9a349c
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790286319~exp=1790307919~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=80039143cbcd3f6c0bda637cbe788dc31eccd7dbb449cc129e1c7d06aa9a349c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3279" tvg-name="OM TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/OM_TV.png" group-title="English",OM TV
