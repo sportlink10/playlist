@@ -2,52 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "08:59:46 PM 24-09-2026",
-    "generated_at": "2026-09-24 15:45:06",
+    "source_last_updated": "10:20:48 PM 24-09-2026",
+    "generated_at": "2026-09-24 16:55:09",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 39,
-    "live_matches_count": 3,
+    "total_matches": 37,
+    "live_matches_count": 1,
     "upcoming_matches_count": 36,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249778_ENG",
-            "title": "Australia tour of South Africa, 2026 [English]",
-            "match_name": "South Africa vs Australia [English]",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "startTime": "01:30:00 PM 24-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249778_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": "4249579_ENG",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Puri Titans vs Bhubaneshwar Tigers [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Bhubaneshwar Tigers",
-            "status": "LIVE",
-            "startTime": "07:30:00 PM 24-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249579_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": "4249258_ENG",
@@ -172,19 +134,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139657,
-            "title": "Feature Race 1 vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Feature Race 1",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Feature Race 1",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "03:45:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4249269,
             "title": "Girona FC vs Albacete (LALIGA Hypermotion 2026-27)",
@@ -195,6 +144,19 @@
             "team_2": "Albacete",
             "status": "UPCOMING",
             "startTime": "12:00:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139657,
+            "title": "Feature Race 1 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 1",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Feature Race 1",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "03:45:00 PM 25-09-2026",
             "user-agent": null
         },
         {
@@ -539,44 +501,6 @@
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249778_ENG",
-            "title": "Australia tour of South Africa, 2026 [English]",
-            "match_name": "South Africa vs Australia [English]",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "startTime": "01:30:00 PM 24-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249778_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": "4249579_ENG",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Puri Titans vs Bhubaneshwar Tigers [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Bhubaneshwar Tigers",
-            "status": "LIVE",
-            "startTime": "07:30:00 PM 24-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249579_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
             "match_id": "4249258_ENG",
             "title": "DP World ILT20 Development Tournament 2026 [English]",
             "match_name": "Gulf Giants Development vs Desert Vipers Development [English]",
@@ -701,19 +625,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139657,
-            "title": "Feature Race 1 vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Feature Race 1",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Feature Race 1",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "03:45:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4249269,
             "title": "Girona FC vs Albacete (LALIGA Hypermotion 2026-27)",
@@ -724,6 +635,19 @@
             "team_2": "Albacete",
             "status": "UPCOMING",
             "startTime": "12:00:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139657,
+            "title": "Feature Race 1 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 1",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Feature Race 1",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "03:45:00 PM 25-09-2026",
             "user-agent": null
         },
         {
