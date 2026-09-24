@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "03:44:09 AM 25-09-2026",
-    "generated_at": "2026-09-24 22:20:07",
+    "source_last_updated": "04:04:23 AM 25-09-2026",
+    "generated_at": "2026-09-24 22:35:10",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 37,
@@ -251,19 +251,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 4249606,
-            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Feature Race 2",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Feature Race 2",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249583,
             "title": "Keonjhar Miners vs Kataka Panthers (Odisha T20 League 2026)",
@@ -274,6 +261,19 @@
             "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4249606,
+            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 2",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Feature Race 2",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -742,19 +742,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 4249606,
-            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Feature Race 2",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Feature Race 2",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249583,
             "title": "Keonjhar Miners vs Kataka Panthers (Odisha T20 League 2026)",
@@ -765,6 +752,19 @@
             "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4249606,
+            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 2",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Feature Race 2",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
