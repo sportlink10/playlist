@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "09:22:37 AM 24-09-2026",
-    "generated_at": "2026-09-24 03:55:09",
+    "source_last_updated": "09:32:42 AM 24-09-2026",
+    "generated_at": "2026-09-24 04:10:05",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 38,
@@ -89,19 +89,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249580,
-            "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Kataka Panthers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Kataka Panthers",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Tennis",
             "match_id": 4248538,
             "title": "Day 2 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -112,6 +99,19 @@
             "team_2": "Chengdu, China",
             "status": "UPCOMING",
             "startTime": "10:30:00 AM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249580,
+            "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Kataka Panthers",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 25-09-2026",
             "user-agent": null
         },
         {
@@ -586,19 +586,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249580,
-            "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Kataka Panthers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Kataka Panthers",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Tennis",
             "match_id": 4248538,
             "title": "Day 2 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -609,6 +596,19 @@
             "team_2": "Chengdu, China",
             "status": "UPCOMING",
             "startTime": "10:30:00 AM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249580,
+            "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Kataka Panthers",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 25-09-2026",
             "user-agent": null
         },
         {
