@@ -3929,11 +3929,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTamil_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790210265~exp=1790213865~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=67b039e12d67da34e18a9338ffeac5626666e087daa2149afffe882877d5812a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790213783~exp=1790217383~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=1885fe1ef9abecc83fc4c46785bc00cc7d97b5dce8153498aefe538347fc69d4
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790210265~exp=1790213865~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=67b039e12d67da34e18a9338ffeac5626666e087daa2149afffe882877d5812a
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790210265~exp=1790213865~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=67b039e12d67da34e18a9338ffeac5626666e087daa2149afffe882877d5812a"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790213783~exp=1790217383~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=1885fe1ef9abecc83fc4c46785bc00cc7d97b5dce8153498aefe538347fc69d4
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790213783~exp=1790217383~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=1885fe1ef9abecc83fc4c46785bc00cc7d97b5dce8153498aefe538347fc69d4"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Tamil",Puthu Yugam
@@ -6581,11 +6581,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9dd4aa4accd53188659c4a7b45bd8c4:920ff1a99835cfeb26d4c0db04ee58bd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790210623~exp=1790214223~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=cecb6b201ffe54958b5aaec38749d0650a8cb112733bdfb69bc1db93617b3ac3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790214125~exp=1790217725~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=f421ae74083e32eb242589428dede884c5db5f30fb9154b4214596e4feab6715
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790210623~exp=1790214223~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=cecb6b201ffe54958b5aaec38749d0650a8cb112733bdfb69bc1db93617b3ac3
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790210623~exp=1790214223~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=cecb6b201ffe54958b5aaec38749d0650a8cb112733bdfb69bc1db93617b3ac3"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790214125~exp=1790217725~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=f421ae74083e32eb242589428dede884c5db5f30fb9154b4214596e4feab6715
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790214125~exp=1790217725~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=f421ae74083e32eb242589428dede884c5db5f30fb9154b4214596e4feab6715"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTalkiesHD.png" group-title="Marathi",Zee Talkies HD
@@ -7621,11 +7621,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/News_State_MPCG_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f85fea5f617503d9166990f21afc2c2:b2fc26f5b5595606827d4000a9d1b178
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790210589~exp=1790214189~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=5d3b121da3ede3a675e81d5e1da635385716712d577e9d2c940fb076dec4eaa3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790214077~exp=1790217677~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=e57ce74231760ef69e48321ac6dc5d026bc09836f65c1c7ad530a38c46189a9b
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790210589~exp=1790214189~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=5d3b121da3ede3a675e81d5e1da635385716712d577e9d2c940fb076dec4eaa3
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790210589~exp=1790214189~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=5d3b121da3ede3a675e81d5e1da635385716712d577e9d2c940fb076dec4eaa3"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790214077~exp=1790217677~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=e57ce74231760ef69e48321ac6dc5d026bc09836f65c1c7ad530a38c46189a9b
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790214077~exp=1790217677~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=e57ce74231760ef69e48321ac6dc5d026bc09836f65c1c7ad530a38c46189a9b"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKeralamHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1643" tvg-name="Harvest TV 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Harvest_TV_24x7.png" group-title="Malayalam",Harvest TV 24x7
