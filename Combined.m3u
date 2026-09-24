@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (5 channels) =====
+#===== Fancode | Sportlink (4 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 24 September 2026 at 6:21:14 pm
+#DATE:- Thursday, 24 September 2026 at 6:42:09 pm
 
 #EXTINF:-1 tvg-id="4249778" tvg-name="South Africa Vs Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | South Africa Vs Australia
 https://dai-fancode.pages.dev/mumbai/4249778_english_hls_a11e04665e35882_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -13,27 +13,24 @@ https://dai-fancode.pages.dev/mumbai/4248538_english_hls_f83a42791955515_1ta-di_
 #EXTINF:-1 tvg-id="4248545" tvg-name="Day 2 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 2
 https://dai-fancode.pages.dev/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="139493" tvg-name="Practice 2 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Practice 2
-https://dai-fancode.pages.dev/mumbai/139493_english_hls_a9c23185ca5510_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
 #===== SonyLIV | Sportlink (6 channels) =====
 #EXTINF:-1 tvg-name="India In Action - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024659/1790251605135997_AG_Combo_Live_V4_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790297840~acl=/*~id=14033228762623522286529388291490~hmac=857db80f8b309bcd43b4ec56286936e3a37e6682f8c49f071e5cc08c1e8499d4
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790298449~acl=/*~id=69722462621871539226921124020370~hmac=5630720b197d1f4cf15469dc9e2aef3c2fa2591d93943a3b82944361376e956a
 
 #EXTINF:-1 tvg-name="India In Action - 24 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024659/1790251605135997_AG_Combo_Live_V4_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - 24 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790297840~acl=/*~id=14033228762623522286529388291490~hmac=857db80f8b309bcd43b4ec56286936e3a37e6682f8c49f071e5cc08c1e8499d4
+https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790298449~acl=/*~id=69722462621871539226921124020370~hmac=5630720b197d1f4cf15469dc9e2aef3c2fa2591d93943a3b82944361376e956a
 
 #EXTINF:-1 tvg-name="India In Action - 24 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024659/1790251605135997_AG_Combo_Live_V4_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - 24 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_Strea2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790297840~acl=/*~id=14033228762623522286529388291490~hmac=857db80f8b309bcd43b4ec56286936e3a37e6682f8c49f071e5cc08c1e8499d4
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_Strea2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790298449~acl=/*~id=69722462621871539226921124020370~hmac=5630720b197d1f4cf15469dc9e2aef3c2fa2591d93943a3b82944361376e956a
 
 #EXTINF:-1 tvg-name="India In Action - 24 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024659/1790251605135997_AG_Combo_Live_V4_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - 24 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790297840~acl=/*~id=14033228762623522286529388291490~hmac=857db80f8b309bcd43b4ec56286936e3a37e6682f8c49f071e5cc08c1e8499d4
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790298449~acl=/*~id=69722462621871539226921124020370~hmac=5630720b197d1f4cf15469dc9e2aef3c2fa2591d93943a3b82944361376e956a
 
 #EXTINF:-1 tvg-name="2nd ODI - 24 Sep 2026 [ENG] - Sri Lanka Tour of England 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022726639512_ENGvsSL26_2odi_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd ODI - 24 Sep 2026 [ENG] - Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790297840~acl=/*~id=14033228762623522286529388291490~hmac=857db80f8b309bcd43b4ec56286936e3a37e6682f8c49f071e5cc08c1e8499d4
+https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790298449~acl=/*~id=69722462621871539226921124020370~hmac=5630720b197d1f4cf15469dc9e2aef3c2fa2591d93943a3b82944361376e956a
 
 #EXTINF:-1 tvg-name="FedEx Open de France - Day 1 - 24 Sep 2026 [ENG] - DP World Tour @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844988198657_DP_World_Tour_FedEx_Open_de_France_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", FedEx Open de France - Day 1 - 24 Sep 2026 [ENG] - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2120301/golflive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790297840~acl=/*~id=14033228762623522286529388291490~hmac=857db80f8b309bcd43b4ec56286936e3a37e6682f8c49f071e5cc08c1e8499d4
+https://sonydaimenew.akamaized.net/hls/live/2120301/golflive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790298449~acl=/*~id=69722462621871539226921124020370~hmac=5630720b197d1f4cf15469dc9e2aef3c2fa2591d93943a3b82944361376e956a
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
