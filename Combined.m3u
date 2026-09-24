@@ -2,7 +2,10 @@
 #===== Fancode | Sportlink (4 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 24 September 2026 at 12:56:15 pm
+#DATE:- Thursday, 24 September 2026 at 1:14:14 pm
+
+#EXTINF:-1 tvg-id="4249778" tvg-name="South Africa Vs Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | South Africa Vs Australia
+https://dai-fancode.pages.dev/mumbai/4249778_english_hls_a11e04665e35882_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4248538" tvg-name="Day 2 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 2
 https://dai-fancode.pages.dev/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -10,39 +13,33 @@ https://dai-fancode.pages.dev/mumbai/4248538_english_hls_f83a42791955515_1ta-di_
 #EXTINF:-1 tvg-id="4248545" tvg-name="Day 2 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 2
 https://dai-fancode.pages.dev/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249778" tvg-name="South Africa Vs Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | South Africa Vs Australia
-https://dai-fancode.pages.dev/mumbai/4249778_english_hls_a11e04665e35882_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#===== SonyLIV | Sportlink (4 channels) =====
+#EXTINF:-1 tvg-name="Day 6 - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Day 6 - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790279599~acl=/*~id=65009319145216383279258152345587~hmac=f4c60ab63c63df6a569db7de3e5393b5a6fa9ab62fa62d340d169ca7a47146a6
 
-#===== SonyLIV | Sportlink (5 channels) =====
-#EXTINF:-1 tvg-name="Republic Of Korea vs India - Hockey - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Republic Of Korea vs India - Hockey - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790278382~acl=/*~id=35696817206138588652059879450386~hmac=d32109264537647b90cf13bba23c689cc01e3e94b158a258a98bd608c9422d0d
+#EXTINF:-1 tvg-name="Day 6 - 24 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Day 6 - 24 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790279599~acl=/*~id=65009319145216383279258152345587~hmac=f4c60ab63c63df6a569db7de3e5393b5a6fa9ab62fa62d340d169ca7a47146a6
 
-#EXTINF:-1 tvg-name="Republic Of Korea vs India - Hockey - 24 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Republic Of Korea vs India - Hockey - 24 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790278382~acl=/*~id=35696817206138588652059879450386~hmac=d32109264537647b90cf13bba23c689cc01e3e94b158a258a98bd608c9422d0d
+#EXTINF:-1 tvg-name="Day 6 - 24 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Day 6 - 24 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_Strea2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790279599~acl=/*~id=65009319145216383279258152345587~hmac=f4c60ab63c63df6a569db7de3e5393b5a6fa9ab62fa62d340d169ca7a47146a6
 
-#EXTINF:-1 tvg-name="Republic Of Korea vs India - Hockey - 24 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Republic Of Korea vs India - Hockey - 24 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_Strea2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790278382~acl=/*~id=35696817206138588652059879450386~hmac=d32109264537647b90cf13bba23c689cc01e3e94b158a258a98bd608c9422d0d
-
-#EXTINF:-1 tvg-name="Republic Of Korea vs India - Hockey - 24 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Republic Of Korea vs India - Hockey - 24 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790278382~acl=/*~id=35696817206138588652059879450386~hmac=d32109264537647b90cf13bba23c689cc01e3e94b158a258a98bd608c9422d0d
-
-#EXTINF:-1 tvg-name="China vs Malaysia - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024552/1790161238344620_AG26_Mens-Cricket-Hong-Kong-China-vs-Malaysia_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Hong Kong,China vs Malaysia - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/AG2026_D2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790278382~acl=/*~id=35696817206138588652059879450386~hmac=d32109264537647b90cf13bba23c689cc01e3e94b158a258a98bd608c9422d0d
+#EXTINF:-1 tvg-name="Day 6 - 24 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Day 6 - 24 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790279599~acl=/*~id=65009319145216383279258152345587~hmac=f4c60ab63c63df6a569db7de3e5393b5a6fa9ab62fa62d340d169ca7a47146a6
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:32 PM 24-09-2026
+#LAST_UPDATE:02:02 PM 24-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
 #UPCOMING_COUNT:16
 
-#EXTINF:-1 tvg-id="B0H6XJYTG3" tvg-name="Asian Games 2026 - 2nd Match - Hong Kong, China vs Malaysia @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.386d0ce0-c3cb-4287-91d9-a957b886961c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Asian Games 2026 - 2nd Match - Hong Kong, China vs Malaysia
+#EXTINF:-1 tvg-id="B0H6XJYTG3" tvg-name="Asian Games 2026 - 2nd Match - Hong Kong, China vs Malaysia @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.386d0ce0-c3cb-4287-91d9-a957b886961c/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Asian Games 2026 - 2nd Match - Hong Kong, China vs Malaysia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=38e634c62e5bcfdece23f441a2d3047b:05132fb19865e6e274357a6ef6862c42
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xyod0psaxc/out/v1/a6643b443bf84856a6e2ca892bc38c14/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xyod0psaxc/out/v1/a6643b443bf84856a6e2ca892bc38c14/cenc.mpd
 
 #===== Prime Video | Sportlink (5 channels) =====
 #PLAYLIST:Prime Video Free Sports
@@ -85,32 +82,32 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 1:32:24 PM 24-09-2026
+#last update time: 2:02:29 PM 24-09-2026
 
 #EXTINF:-1 tvg-name="WTA Singapore - WTA Singapore @virat10" tvg-id="75849" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="AXS | Sportlink", WTA Singapore - WTA Singapore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1790321549-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-87727b9fd8a0dc588686602df944b142
-
-#EXTINF:-1 tvg-name="China vs Malaysia - Men's Asian Games 2026 @virat10" tvg-id="75900" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men's%20Cricket%20Hong%20Kong%2C%20China%20vs%20Malaysia.jpg" group-title="AXS | Sportlink", Men's Cricket: Hong Kong, China vs Malaysia - Men's Asian Games 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790321555-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4de26b34cfd346baf262aa21fcd64340
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1790323353-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a39fc01fe0030201b9d165ff3724663d
 
 #EXTINF:-1 tvg-name="ATP Hangzhou - ATP Hangzhou @virat10" tvg-id="79692" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg" group-title="AXS | Sportlink", ATP Hangzhou - ATP Hangzhou
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790321563-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9b7ca71887f8bd2e97d731221ca6261c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790323361-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a52e8390134843096d6c12fcf5b2e106
 
 #EXTINF:-1 tvg-name="Tasman vs Bay Of Plenty - NPC @virat10" tvg-id="67558" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tasman%20vs%20Bay%20Of%20Plenty.jpg" group-title="AXS | Sportlink", Tasman vs Bay Of Plenty - NPC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790321569-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d76719f3d5d5af7c54c95fc33e3fda83
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790323367-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4f6cc4e6390aac8ffc910a40db080681
 
 #EXTINF:-1 tvg-name="ATP Chengdu - ATP Chengdu @virat10" tvg-id="79693" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Chengdu.jpg" group-title="AXS | Sportlink", ATP Chengdu - ATP Chengdu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/61350/720p/chunks.m3u8?is_vip=false&token=1790321575-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6b67006b1f6cfe21cfb90de0af9f908d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/61350/720p/chunks.m3u8?is_vip=false&token=1790323374-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0477e12095be0accabb454093bf5b96f
+
+#EXTINF:-1 tvg-name="South Africa vs Australia - Australia tour of South Africa @virat10" tvg-id="67506" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Africa%20vs%20Australia.jpg" group-title="AXS | Sportlink", South Africa vs Australia - Australia tour of South Africa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790323380-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0be5dc4f1eb7d725c33467dc0e9662be
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
