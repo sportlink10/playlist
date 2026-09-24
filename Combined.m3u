@@ -9,14 +9,14 @@ https://dai-fancode.pages.dev/mumbai/4249258_english_hls_2772bf2c407669_1ta-di_h
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="2nd ODI - 24 Sep 2026 [ENG] - Sri Lanka Tour of England 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022726639512_ENGvsSL26_2odi_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd ODI - 24 Sep 2026 [ENG] - Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790312460~acl=/*~id=28441584793142101734496926943459~hmac=bdef3629d7ebebd6f64b1cb3f683630e44513562cd42c48bc05b2461b8c82e1c
+https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790314278~acl=/*~id=32054101778384729213633980345511~hmac=1530cf6337ec663c8d86c919a79d7cdaa0c8398a5957ebe8f2f415721c69e6be
 
 #EXTINF:-1 tvg-name="Andorra vs Malta - 24 Sep 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023532/1788615898381777_UNL26_Andorra_vs_Malta_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Andorra vs Malta - 24 Sep 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022317/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790312460~acl=/*~id=28441584793142101734496926943459~hmac=bdef3629d7ebebd6f64b1cb3f683630e44513562cd42c48bc05b2461b8c82e1c
+https://sonydaimenew.akamaized.net/hls/live/2022317/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790314278~acl=/*~id=32054101778384729213633980345511~hmac=1530cf6337ec663c8d86c919a79d7cdaa0c8398a5957ebe8f2f415721c69e6be
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 PM 24-09-2026
+#LAST_UPDATE:11:32 PM 24-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -34,11 +34,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/alfdweafqm/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3qedwpltfa/out/v1/cc4dcca6d4434946bc70737267ffed31/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3qedwpltfa/out/v1/cc4dcca6d4434946bc70737267ffed31/cenc.mpd
 
 #===== Prime Video | Sportlink (2 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:02 PM 24-09-2026
+#LAST_UPDATE:11:32 PM 24-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -49,79 +49,64 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3qed
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
 
-#===== AXS | Sportlink (14 channels) =====
+#===== AXS | Sportlink (11 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:02:27 PM 24-09-2026
+#last update time: 11:32:26 PM 24-09-2026
 
 #EXTINF:-1 tvg-name="Andorra vs Malta - UEFA Nations League [Server 1] @virat10" tvg-id="66221" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Andorra%20vs%20Malta.jpg" group-title="AXS | Sportlink", Andorra vs Malta - UEFA Nations League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1790355756-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fc14b68fdb6fe09033171d27d3418175
+https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1790357549-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-aae5195b4ac2bbebce6df90aca7b7946
 
 #EXTINF:-1 tvg-name="Andorra vs Malta - UEFA Nations League [Server 2] @virat10" tvg-id="66221" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Andorra%20vs%20Malta.jpg" group-title="AXS | Sportlink", Andorra vs Malta - UEFA Nations League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d3-hd/chunks.m3u8?is_vip=false&token=1790355761-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-13a43729603ec70fef0981f024f95967
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d3-hd/chunks.m3u8?is_vip=false&token=1790357555-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ada20743b1833f39036d5747dee03743
 
 #EXTINF:-1 tvg-name="Andorra vs Malta - UEFA Nations League [Server 3] @virat10" tvg-id="66221" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Andorra%20vs%20Malta.jpg" group-title="AXS | Sportlink", Andorra vs Malta - UEFA Nations League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d3/chunks.m3u8?is_vip=false&token=1790355765-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3cb4f52caf5f710c82ffcc5fbcd2602f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d3/chunks.m3u8?is_vip=false&token=1790357560-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-dd7680994af1cee4d916a6d9c12af501
 
 #EXTINF:-1 tvg-name="Pittsburgh Pirates vs St.Louis Cardinals - MLB @virat10" tvg-id="79184" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Pirates%20vs%20St.Louis%20Cardinals.jpg" group-title="AXS | Sportlink", Pittsburgh Pirates vs St.Louis Cardinals - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790355777-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ff4f6c006ae0dd881d49870f4b787868
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790357566-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-be50196e6550bfa920e0ba1ec9b7df7c
 
 #EXTINF:-1 tvg-name="England vs Sri Lanka - 2nd ODI @virat10" tvg-id="67507" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="AXS | Sportlink", England vs Sri Lanka - 2nd ODI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790355784-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4d25a74fa28443b180f3152a2fe2d4a7
-
-#EXTINF:-1 tvg-name="Women's U23 RR - Cycling World Championships @virat10" tvg-id="67553" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women's%20U23%20RR.jpg" group-title="AXS | Sportlink", Women's U23 RR - Cycling World Championships
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1790355790-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2c9c1815cbe036aafab74cb05c666b25
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790357572-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4a3eebd0358f9c941b988f66f41129eb
 
 #EXTINF:-1 tvg-name="Congo DR vs Equatorial Guinea - Africa Cup of Nations - Qualification @virat10" tvg-id="66210" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Congo%20DR%20vs%20Equatorial%20Guinea.jpg" group-title="AXS | Sportlink", Congo DR vs Equatorial Guinea - Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f4/chunks.m3u8?is_vip=false&token=1790355799-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3bea748c1bc647578a81411d1eb475b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f4/chunks.m3u8?is_vip=false&token=1790357579-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ebca85f7c5442fcf7303a73da8215e4c
 
 #EXTINF:-1 tvg-name="Libya vs Botswana - Africa Cup of Nations - Qualification @virat10" tvg-id="66211" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Libya%20vs%20Botswana.jpg" group-title="AXS | Sportlink", Libya vs Botswana - Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f2/chunks.m3u8?is_vip=false&token=1790355805-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bc8ec4c36cb1ed2ecdc8533c0e37d765
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f2/chunks.m3u8?is_vip=false&token=1790357587-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-84cd5f78c1b320c290acd9cf83ad8619
 
 #EXTINF:-1 tvg-name="Mauritania vs Central African Republic - Africa Cup of Nations - Qualification @virat10" tvg-id="66212" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mauritania%20vs%20Central%20African%20Republic.jpg" group-title="AXS | Sportlink", Mauritania vs Central African Republic - Africa Cup of Nations - Qualification
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f3/chunks.m3u8?is_vip=false&token=1790355814-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bfe32b21b0ac367f0646b31d8c2a95a6
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f3/chunks.m3u8?is_vip=false&token=1790357593-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-28c7a6f8a1ad1ebf4d6b27da422a042f
 
 #EXTINF:-1 tvg-name="Dubai Basketball vs Real Madrid - EuroLeague @virat10" tvg-id="67544" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dubai%20Basketball%20vs%20Real%20Madrid.jpg" group-title="AXS | Sportlink", Dubai Basketball vs Real Madrid - EuroLeague
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1790355822-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5dd6019c3b43f4bf352eabfe354433c2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1790357599-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a3e339af03d251573cfd8b85349948d8
 
 #EXTINF:-1 tvg-name="Hapoel IBI Tel Aviv vs FC Bayern Munich - EuroLeague @virat10" tvg-id="67545" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hapoel%20IBI%20Tel%20Aviv%20vs%20FC%20Bayern%20Munich.jpg" group-title="AXS | Sportlink", Hapoel IBI Tel Aviv vs FC Bayern Munich - EuroLeague
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790355830-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7a1caf779c923a2a8b6e851e668a3960
-
-#EXTINF:-1 tvg-name="Chicago: 1a giornata - 2026 Presidents Cup @virat10" tvg-id="81445" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%201a%20giornata.jpg" group-title="AXS | Sportlink", Chicago: 1a giornata - 2026 Presidents Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1790355836-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-accab3f400cce8d7dcf07ee4a04c539e
-
-#EXTINF:-1 tvg-name="Men's Junior RR - Cycling World Championships @virat10" tvg-id="67554" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Men's%20Junior%20RR.jpg" group-title="AXS | Sportlink", Men's Junior RR - Cycling World Championships
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1790355844-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-37fcf8085595c75799da5f31510edd78
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790357604-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ddab0a37c9f9888f269743e4bd7a870d
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
