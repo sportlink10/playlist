@@ -7,31 +7,9 @@
 #EXTINF:-1 tvg-id="4249104" tvg-name="Day 1   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 1   World Feed
 https://dai-fancode.pages.dev/mumbai/4249104_english_hls_ab66a4f3b412868_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (7 channels) =====
-#EXTINF:-1 tvg-name="Portugal vs Wales - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023534/1788617523847612_UNL26_Portugal_vs_Wales_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Portugal vs Wales - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790325222~acl=/*~id=84146805726312021764650633523752~hmac=2a222723a840527961707cac1a8be3e410827f424ce3a498112cc822ca328950
-
-#EXTINF:-1 tvg-name="Netherlands vs Germany - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023535/1788618296586899_UNL26_Netherlands_vs_Germany_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Netherlands vs Germany - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790325222~acl=/*~id=84146805726312021764650633523752~hmac=2a222723a840527961707cac1a8be3e410827f424ce3a498112cc822ca328950
-
-#EXTINF:-1 tvg-name="Norway vs Denmark - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023552/1788629830077120_UNL26_Norway_vs_Denmark_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Norway vs Denmark - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790325222~acl=/*~id=84146805726312021764650633523752~hmac=2a222723a840527961707cac1a8be3e410827f424ce3a498112cc822ca328950
-
-#EXTINF:-1 tvg-name="Serbia vs Greece - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023537/178862115308953_UNL26_Serbia_vs_Greece_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Serbia vs Greece - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790325222~acl=/*~id=84146805726312021764650633523752~hmac=2a222723a840527961707cac1a8be3e410827f424ce3a498112cc822ca328950
-
-#EXTINF:-1 tvg-name="Austria vs Israel - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023553/1788630525483440_UNL26_Austria_vs_Israel_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Austria vs Israel - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037141/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790325222~acl=/*~id=84146805726312021764650633523752~hmac=2a222723a840527961707cac1a8be3e410827f424ce3a498112cc822ca328950
-
-#EXTINF:-1 tvg-name="Kosovo vs Republic of Ireland - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023559/178863630759699_UNL26_Kosovo_vs_Republic_of_Ireland_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Kosovo vs Republic of Ireland - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037142/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790325222~acl=/*~id=84146805726312021764650633523752~hmac=2a222723a840527961707cac1a8be3e410827f424ce3a498112cc822ca328950
-
-#EXTINF:-1 tvg-name="Liechtenstein vs Lithuania - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023560/1788637005172990_UNL26_Liechtenstein_vs_Lithuania_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Liechtenstein vs Lithuania - 25 Sep 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790325222~acl=/*~id=84146805726312021764650633523752~hmac=2a222723a840527961707cac1a8be3e410827f424ce3a498112cc822ca328950
-
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 AM 25-09-2026
+#LAST_UPDATE:03:02 AM 25-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -42,11 +20,11 @@ https://sonydaimenew.akamaized.net/hls/live/2120299/footlive2409/ENG/std_lrh-800
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3qedwpltfa/out/v1/cc4dcca6d4434946bc70737267ffed31/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3qedwpltfa/out/v1/cc4dcca6d4434946bc70737267ffed31/cenc.mpd
 
 #===== Prime Video | Sportlink (2 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:32 AM 25-09-2026
+#LAST_UPDATE:03:02 AM 25-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -59,187 +37,42 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3qedwpltfa
 #KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
 
-#===== AXS | Sportlink (36 channels) =====
+#===== AXS | Sportlink (7 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 2:17:24 AM 25-09-2026
-
-#EXTINF:-1 tvg-name="Kansas City Royals vs Chicago White Sox - MLB @virat10" tvg-id="79185" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas%20City%20Royals%20vs%20Chicago%20White%20Sox.jpg" group-title="AXS | Sportlink", Kansas City Royals vs Chicago White Sox - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790367448-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e3b39eff21164881e154bfd8c3b70117
-
-#EXTINF:-1 tvg-name="Chicago Cubs vs Miami Marlins - MLB @virat10" tvg-id="79186" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20Cubs%20vs%20Miami%20Marlins.jpg" group-title="AXS | Sportlink", Chicago Cubs vs Miami Marlins - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790367453-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-52c75079d8dc3504da92f4bedcfda63b
+#last update time: 3:02:25 AM 25-09-2026
 
 #EXTINF:-1 tvg-name="Texas Rangers vs New York Mets - MLB @virat10" tvg-id="79187" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20New%20York%20Mets.jpg" group-title="AXS | Sportlink", Texas Rangers vs New York Mets - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790367457-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4d306fb89eaf7b528aa45fa449f2ffe4
-
-#EXTINF:-1 tvg-name="Serbia vs Greece - UEFA Nations League [Server 1] @virat10" tvg-id="66215" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Greece.jpg" group-title="AXS | Sportlink", Serbia vs Greece - UEFA Nations League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8-hd/chunks.m3u8?is_vip=false&token=1790367463-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-47c12f68724104bf36fca055c9e3f250
-
-#EXTINF:-1 tvg-name="Serbia vs Greece - UEFA Nations League [Server 2] @virat10" tvg-id="66215" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Serbia%20vs%20Greece.jpg" group-title="AXS | Sportlink", Serbia vs Greece - UEFA Nations League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d8/chunks.m3u8?is_vip=false&token=1790367467-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1440c443b51b4620bb55d5b7bdaa30cc
-
-#EXTINF:-1 tvg-name="Liechtenstein vs Lithuania - UEFA Nations League [Server 1] @virat10" tvg-id="66220" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liechtenstein%20vs%20Lithuania.jpg" group-title="AXS | Sportlink", Liechtenstein vs Lithuania - UEFA Nations League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4-hd/chunks.m3u8?is_vip=false&token=1790367473-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-30e8e4348d826c378baab9e004d3dd96
-
-#EXTINF:-1 tvg-name="Liechtenstein vs Lithuania - UEFA Nations League [Server 2] @virat10" tvg-id="66220" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liechtenstein%20vs%20Lithuania.jpg" group-title="AXS | Sportlink", Liechtenstein vs Lithuania - UEFA Nations League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d4/chunks.m3u8?is_vip=false&token=1790367477-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9df61e95ae4b99962599cecf7af3601c
-
-#EXTINF:-1 tvg-name="Kosovo vs Rep. Of Ireland - UEFA Nations League [Server 1] @virat10" tvg-id="66219" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kosovo%20vs%20Rep.%20Of%20Ireland.jpg" group-title="AXS | Sportlink", Kosovo vs Rep. Of Ireland - UEFA Nations League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5-hd/chunks.m3u8?is_vip=false&token=1790367485-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c5f5429016f0878f42febd8a443c4e1d
-
-#EXTINF:-1 tvg-name="Kosovo vs Rep. Of Ireland - UEFA Nations League [Server 2] @virat10" tvg-id="66219" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kosovo%20vs%20Rep.%20Of%20Ireland.jpg" group-title="AXS | Sportlink", Kosovo vs Rep. Of Ireland - UEFA Nations League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d5/chunks.m3u8?is_vip=false&token=1790367489-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-63e1df0169d111d46f186b868845a852
-
-#EXTINF:-1 tvg-name="Austria vs Israel - UEFA Nations League [Server 1] @virat10" tvg-id="66218" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Israel.jpg" group-title="AXS | Sportlink", Austria vs Israel - UEFA Nations League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6-hd/chunks.m3u8?is_vip=false&token=1790367494-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-483358459080b7fabac5b4d23ac530eb
-
-#EXTINF:-1 tvg-name="Austria vs Israel - UEFA Nations League [Server 2] @virat10" tvg-id="66218" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20vs%20Israel.jpg" group-title="AXS | Sportlink", Austria vs Israel - UEFA Nations League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d6/chunks.m3u8?is_vip=false&token=1790367499-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-85c53baefa849f3aa2706aab50b06cdf
-
-#EXTINF:-1 tvg-name="Norway vs Denmark - UEFA Nations League [Server 1] @virat10" tvg-id="66217" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Denmark.jpg" group-title="AXS | Sportlink", Norway vs Denmark - UEFA Nations League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1790367504-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-940dea102109ec21fa18fbe39a56ff0f
-
-#EXTINF:-1 tvg-name="Norway vs Denmark - UEFA Nations League [Server 2] @virat10" tvg-id="66217" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Denmark.jpg" group-title="AXS | Sportlink", Norway vs Denmark - UEFA Nations League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7-hd/chunks.m3u8?is_vip=false&token=1790367508-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-29b1bcf66a27b884c08a96784c2507c7
-
-#EXTINF:-1 tvg-name="Norway vs Denmark - UEFA Nations League [Server 3] @virat10" tvg-id="66217" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway%20vs%20Denmark.jpg" group-title="AXS | Sportlink", Norway vs Denmark - UEFA Nations League [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d7/chunks.m3u8?is_vip=false&token=1790367512-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d7a0a2612db760cb277cac000e5b8670
-
-#EXTINF:-1 tvg-name="Portugal vs Wales - UEFA Nations League [Server 1] @virat10" tvg-id="66216" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20vs%20Wales.jpg" group-title="AXS | Sportlink", Portugal vs Wales - UEFA Nations League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1790367516-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-249993432b5018bbecdfa3932e6ba56e
-
-#EXTINF:-1 tvg-name="Portugal vs Wales - UEFA Nations League [Server 2] @virat10" tvg-id="66216" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20vs%20Wales.jpg" group-title="AXS | Sportlink", Portugal vs Wales - UEFA Nations League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da-hd/chunks.m3u8?is_vip=false&token=1790367519-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0a9e23a0001cd199a271239fb7d1dc48
-
-#EXTINF:-1 tvg-name="Portugal vs Wales - UEFA Nations League [Server 3] @virat10" tvg-id="66216" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20vs%20Wales.jpg" group-title="AXS | Sportlink", Portugal vs Wales - UEFA Nations League [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38da/chunks.m3u8?is_vip=false&token=1790367522-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e9c9168b1e08450943f7c88e75ace9ca
-
-#EXTINF:-1 tvg-name="Netherlands vs Germany - UEFA Nations League [Server 1] @virat10" tvg-id="66214" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20vs%20Germany.jpg" group-title="AXS | Sportlink", Netherlands vs Germany - UEFA Nations League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9-hd/chunks.m3u8?is_vip=false&token=1790367528-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2669113b949b9beea98c4e7d37767be3
-
-#EXTINF:-1 tvg-name="Netherlands vs Germany - UEFA Nations League [Server 2] @virat10" tvg-id="66214" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20vs%20Germany.jpg" group-title="AXS | Sportlink", Netherlands vs Germany - UEFA Nations League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d9/chunks.m3u8?is_vip=false&token=1790367532-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-718a9b09e1ddf4ff1089c866c842b261
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790370149-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d903a6606856e7c3d114258ad236d6c6
 
 #EXTINF:-1 tvg-name="Colorado Rockies vs Arizona Diamondbacks - MLB @virat10" tvg-id="79188" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20Arizona%20Diamondbacks.jpg" group-title="AXS | Sportlink", Colorado Rockies vs Arizona Diamondbacks - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790367541-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ec30227b50ae4a92816ab01b3e792493
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790370155-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ca02315bc2297f9b3f104a607b5c5ff2
 
 #EXTINF:-1 tvg-name="Chicago | Day 1 - PGA Tour @virat10" tvg-id="67556" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20%20Day%201.jpg" group-title="AXS | Sportlink", Chicago | Day 1 - PGA Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790367548-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-69e53cf62eda21c8936a017ecef36232
+https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790370161-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-937c320a732d02c4551b1097c408c669
 
 #EXTINF:-1 tvg-name="Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas - EuroLeague @virat10" tvg-id="67546" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crvena%20Zvezda%20Meridianbet%20Belgrade%20vs%20Zalgiris%20Kaunas.jpg" group-title="AXS | Sportlink", Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas - EuroLeague
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790367553-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1dbf8ddd136fe617720c3597e2bb6b80
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790370166-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a14321dc54cc66f7e74b12f1c18b81fc
 
 #EXTINF:-1 tvg-name="Panathinaikos AKTOR Athens vs Paris Basketball - EuroLeague @virat10" tvg-id="67547" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panathinaikos%20AKTOR%20Athens%20vs%20Paris%20Basketball.jpg" group-title="AXS | Sportlink", Panathinaikos AKTOR Athens vs Paris Basketball - EuroLeague
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790367559-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a7b1b6235aee5b2e742d650417f1cdb8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790370172-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-87d870166c0960cdad53dbce2565720e
 
 #EXTINF:-1 tvg-name="FC Barcelona vs Anadolu Efes Istanbul - EuroLeague @virat10" tvg-id="67549" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Barcelona%20vs%20Anadolu%20Efes%20Istanbul.jpg" group-title="AXS | Sportlink", FC Barcelona vs Anadolu Efes Istanbul - EuroLeague
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790367565-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9c2e12b199ec4bfba72ac2889732f090
-
-#EXTINF:-1 tvg-name="Tunisia vs Uganda - Africa Cup of Nations - Qualification [Server 1] @virat10" tvg-id="66226" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tunisia%20vs%20Uganda.jpg" group-title="AXS | Sportlink", Tunisia vs Uganda - Africa Cup of Nations - Qualification [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f8/chunks.m3u8?is_vip=false&token=1790367570-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-48433090b7418737b7f742b988c39e06
-
-#EXTINF:-1 tvg-name="Tunisia vs Uganda - Africa Cup of Nations - Qualification [Server 2] @virat10" tvg-id="66226" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tunisia%20vs%20Uganda.jpg" group-title="AXS | Sportlink", Tunisia vs Uganda - Africa Cup of Nations - Qualification [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/720p/chunks.m3u8?is_vip=false&token=1790367574-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b41e5f86b7342f4e8e6cc1e60bf044ae
-
-#EXTINF:-1 tvg-name="Puerto Rico vs Guyana - CONCACAF Nations League @virat10" tvg-id="69929" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Puerto%20Rico%20vs%20Guyana.jpg" group-title="AXS | Sportlink", Puerto Rico vs Guyana - CONCACAF Nations League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f9/chunks.m3u8?is_vip=false&token=1790367581-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bf8361c20d61af5fe14f2ae94e0c6808
-
-#EXTINF:-1 tvg-name="Sierra Leone vs Zimbabwe - Africa Cup of Nations - Qualification [Server 1] @virat10" tvg-id="66225" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sierra%20Leone%20vs%20Zimbabwe.jpg" group-title="AXS | Sportlink", Sierra Leone vs Zimbabwe - Africa Cup of Nations - Qualification [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f6/chunks.m3u8?is_vip=false&token=1790367587-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6a247a37279033e22c599dffbf2fae03
-
-#EXTINF:-1 tvg-name="Sierra Leone vs Zimbabwe - Africa Cup of Nations - Qualification [Server 2] @virat10" tvg-id="66225" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sierra%20Leone%20vs%20Zimbabwe.jpg" group-title="AXS | Sportlink", Sierra Leone vs Zimbabwe - Africa Cup of Nations - Qualification [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/720p/chunks.m3u8?is_vip=false&token=1790367590-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9af830c65881c3c554dcbab9c947278f
-
-#EXTINF:-1 tvg-name="Ivory Coast vs Ghana - Africa Cup of Nations - Qualification [Server 1] @virat10" tvg-id="66224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ivory%20Coast%20vs%20Ghana.jpg" group-title="AXS | Sportlink", Ivory Coast vs Ghana - Africa Cup of Nations - Qualification [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f5-hd/chunks.m3u8?is_vip=false&token=1790367596-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a390f2abf80698229c421a31f8d6ea09
-
-#EXTINF:-1 tvg-name="Ivory Coast vs Ghana - Africa Cup of Nations - Qualification [Server 2] @virat10" tvg-id="66224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ivory%20Coast%20vs%20Ghana.jpg" group-title="AXS | Sportlink", Ivory Coast vs Ghana - Africa Cup of Nations - Qualification [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f5/chunks.m3u8?is_vip=false&token=1790367601-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-75bb9e798afe848e79a918700759c1a2
-
-#EXTINF:-1 tvg-name="Ivory Coast vs Ghana - Africa Cup of Nations - Qualification [Server 3] @virat10" tvg-id="66224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ivory%20Coast%20vs%20Ghana.jpg" group-title="AXS | Sportlink", Ivory Coast vs Ghana - Africa Cup of Nations - Qualification [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398/720p/chunks.m3u8?is_vip=false&token=1790367605-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-d937cfcc6399bf48d83d9d38d410fcb2
-
-#EXTINF:-1 tvg-name="Cameroon vs Comoros - Africa Cup of Nations - Qualification [Server 1] @virat10" tvg-id="66223" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cameroon%20vs%20Comoros.jpg" group-title="AXS | Sportlink", Cameroon vs Comoros - Africa Cup of Nations - Qualification [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f7-hd/chunks.m3u8?is_vip=false&token=1790367617-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b3c0aceb66b7bf3bd6dd6d94dba3ef05
-
-#EXTINF:-1 tvg-name="Cameroon vs Comoros - Africa Cup of Nations - Qualification [Server 2] @virat10" tvg-id="66223" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cameroon%20vs%20Comoros.jpg" group-title="AXS | Sportlink", Cameroon vs Comoros - Africa Cup of Nations - Qualification [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fb99a5213cd25c04347f7/chunks.m3u8?is_vip=false&token=1790367621-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a7d88ee1ce3447e64bc351cb06691332
-
-#EXTINF:-1 tvg-name="Cameroon vs Comoros - Africa Cup of Nations - Qualification [Server 3] @virat10" tvg-id="66223" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cameroon%20vs%20Comoros.jpg" group-title="AXS | Sportlink", Cameroon vs Comoros - Africa Cup of Nations - Qualification [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/720p/chunks.m3u8?is_vip=false&token=1790367624-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4ce896d7d728ed3dfd0cc946725fc261
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790369301-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b58f7b5e1c7b24b141c5a0e778082477
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
