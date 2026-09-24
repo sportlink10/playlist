@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:18:00 PM 24-09-2026",
-    "generated_at": "2026-09-24 13:05:09",
+    "source_last_updated": "06:58:23 PM 24-09-2026",
+    "generated_at": "2026-09-24 13:35:09",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 38,
-    "live_matches_count": 4,
-    "upcoming_matches_count": 34,
+    "live_matches_count": 3,
+    "upcoming_matches_count": 35,
     "matches": [
         {
             "event_category": "Cricket",
@@ -64,25 +64,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248545_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Formula 1",
-            "match_id": "139493_ENG",
-            "title": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 [English]",
-            "match_name": "Practice 2 [English]",
-            "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Baku City Circuit",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 24-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139493_ENG/english.m3u8"
                 }
             ]
         },
@@ -527,6 +508,19 @@
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 27-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249523,
+            "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs Punjab FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "Punjab FC",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 27-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -584,25 +578,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248545_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Formula 1",
-            "match_id": "139493_ENG",
-            "title": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 [English]",
-            "match_name": "Practice 2 [English]",
-            "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Baku City Circuit",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 24-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139493_ENG/english.m3u8"
                 }
             ]
         }
@@ -1048,6 +1023,19 @@
             "team_2": "Ghaziabad Giants",
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249523,
+            "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs Punjab FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "Punjab FC",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 27-09-2026",
             "user-agent": null
         }
     ]
