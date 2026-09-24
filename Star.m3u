@@ -197,12 +197,3 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd
 #EXTHTTP:{"cookie": "__hdnea__=st=1790239757~exp=1790261357~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=682296a5faf4da24bb0561fd9ba0e285b4384ee8b6d2e415e439229e3adc9ab8"}
 #EXTVLCOPT:http-user-agent=Virat🐐
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="2852" tvg-name="Star Sports 2 Telugu" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg" group-title="Sports",Star Sports 2 Telugu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e38f46718d9d5c40af83095f176ba41e:8836ee0f7377d71c156a139361a45be5
-#EXTHTTP:{"cookie": "__hdnea__=st=1790239870~exp=1790261470~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=6603aacd9816acb32cf5759ff037753ec3dd5c7940d25f6509e16f6d30152577"}
-#EXTVLCOPT:http-user-agent=Virat🐐
-https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd
