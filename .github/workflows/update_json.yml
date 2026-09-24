@@ -52,6 +52,12 @@ jobs:
           curl -sS -f -L -o sonyliv2.m3u "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u" \
             || echo "⚠️ sonyliv2.m3u fetch failed"
 
+          # ── Zee5 ─────────────────────────────────────────────────────────────
+          curl -sS -f -o zee5.json "https://raw.githubusercontent.com/doctor-8trange/quarnex/refs/heads/main/data/zee5.json" \
+            || echo "⚠️ zee5.json fetch failed"
+          curl -sS -f -L -o zee5.m3u "https://raw.githubusercontent.com/doctor-8trange/quarnex/refs/heads/main/data/zee5.m3u" \
+            || echo "⚠️ zee5.m3u fetch failed"
+
           # ── Willow ───────────────────────────────────────────────────────────
           curl -sS -o willow.json "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.json"
           curl -sS -L -o willow.m3u "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
@@ -73,6 +79,7 @@ jobs:
             fancode4.json \
             sonyliv.json sonyliv.m3u \
             sonyliv2.json sonyliv2.m3u \
+            zee5.json zee5.m3u \
             willow.json willow.m3u \
             primesport.json primesport.m3u \
             fancode.txt
