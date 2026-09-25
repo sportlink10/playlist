@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "10:17:56 AM 25-09-2026",
-    "generated_at": "2026-09-25 04:55:18",
+    "source_last_updated": "10:38:12 AM 25-09-2026",
+    "generated_at": "2026-09-25 05:15:17",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 37,
@@ -12,79 +12,55 @@
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249278_ENG",
-            "title": "One Day Cup, 2026/27 [English]",
-            "match_name": "New South Wales vs Victoria [English]",
+            "match_id": 4249278,
+            "title": "New South Wales vs Victoria (One Day Cup, 2026/27)",
+            "match_name": "New South Wales vs Victoria",
             "event_name": "One Day Cup, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249278_53072_VCT_NSW_FC-Web.jpg",
             "team_1": "New South Wales",
             "team_2": "Victoria",
             "status": "LIVE",
             "startTime": "09:30:00 AM 25-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249278_ENG/english.m3u8"
-                }
-            ]
+            "user-agent": null
         },
         {
             "event_category": "Cricket",
-            "match_id": "4249575_ENG",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers [English]",
+            "match_id": 4249575,
+            "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
             "event_name": "Odisha T20 League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1790170352090.jpg",
             "team_1": "Sambalpur Warriors",
             "team_2": "Bhubaneshwar Tigers",
             "status": "LIVE",
             "startTime": "10:30:00 AM 25-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249575_ENG/english.m3u8"
-                }
-            ]
+            "user-agent": null
         },
         {
             "event_category": "Motorsports",
-            "match_id": "139656_ENG",
-            "title": "F2 AZERBAIJAN 2026 [English]",
-            "match_name": "Sprint Race [English]",
+            "match_id": 139656,
+            "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Sprint Race",
             "event_name": "F2 AZERBAIJAN 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
             "team_1": "Sprint Race",
             "team_2": "Baku",
             "status": "LIVE",
             "startTime": "09:45:00 AM 25-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139656_ENG/english.m3u8"
-                }
-            ]
+            "user-agent": null
         },
         {
             "event_category": "Tennis",
-            "match_id": "4248539_ENG",
-            "title": "ATP 250 - Chengdu Open 2026 [English]",
-            "match_name": "Day 3 [English]",
+            "match_id": 4248539,
+            "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "Day 3",
             "event_name": "ATP 250 - Chengdu Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
             "team_1": "Day 3",
             "team_2": "Chengdu, China",
             "status": "LIVE",
             "startTime": "10:30:00 AM 25-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248539_ENG/english.m3u8"
-                }
-            ]
+            "user-agent": null
         },
         {
             "event_category": "Cricket",
@@ -519,79 +495,55 @@
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249278_ENG",
-            "title": "One Day Cup, 2026/27 [English]",
-            "match_name": "New South Wales vs Victoria [English]",
+            "match_id": 4249278,
+            "title": "New South Wales vs Victoria (One Day Cup, 2026/27)",
+            "match_name": "New South Wales vs Victoria",
             "event_name": "One Day Cup, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249278_53072_VCT_NSW_FC-Web.jpg",
             "team_1": "New South Wales",
             "team_2": "Victoria",
             "status": "LIVE",
             "startTime": "09:30:00 AM 25-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249278_ENG/english.m3u8"
-                }
-            ]
+            "user-agent": null
         },
         {
             "event_category": "Cricket",
-            "match_id": "4249575_ENG",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers [English]",
+            "match_id": 4249575,
+            "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
             "event_name": "Odisha T20 League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1790170352090.jpg",
             "team_1": "Sambalpur Warriors",
             "team_2": "Bhubaneshwar Tigers",
             "status": "LIVE",
             "startTime": "10:30:00 AM 25-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249575_ENG/english.m3u8"
-                }
-            ]
+            "user-agent": null
         },
         {
             "event_category": "Motorsports",
-            "match_id": "139656_ENG",
-            "title": "F2 AZERBAIJAN 2026 [English]",
-            "match_name": "Sprint Race [English]",
+            "match_id": 139656,
+            "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Sprint Race",
             "event_name": "F2 AZERBAIJAN 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
             "team_1": "Sprint Race",
             "team_2": "Baku",
             "status": "LIVE",
             "startTime": "09:45:00 AM 25-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139656_ENG/english.m3u8"
-                }
-            ]
+            "user-agent": null
         },
         {
             "event_category": "Tennis",
-            "match_id": "4248539_ENG",
-            "title": "ATP 250 - Chengdu Open 2026 [English]",
-            "match_name": "Day 3 [English]",
+            "match_id": 4248539,
+            "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "Day 3",
             "event_name": "ATP 250 - Chengdu Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
             "team_1": "Day 3",
             "team_2": "Chengdu, China",
             "status": "LIVE",
             "startTime": "10:30:00 AM 25-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248539_ENG/english.m3u8"
-                }
-            ]
+            "user-agent": null
         }
     ],
     "upcoming_matches": [
