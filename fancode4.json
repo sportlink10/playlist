@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "07:06:08 AM 25-09-2026",
-    "generated_at": "2026-09-25 01:50:06",
+    "source_last_updated": "07:26:19 AM 25-09-2026",
+    "generated_at": "2026-09-25 02:05:09",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 37,
@@ -60,6 +60,19 @@
             "team_2": "Albacete",
             "status": "UPCOMING",
             "startTime": "12:00:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249304,
+            "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
+            "match_name": "Delhi Dynamos vs Gurugram Gladiators",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Gurugram Gladiators",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -125,19 +138,6 @@
             "team_2": "Baku",
             "status": "UPCOMING",
             "startTime": "03:45:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249304,
-            "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
-            "match_name": "Delhi Dynamos vs Gurugram Gladiators",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Gurugram Gladiators",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -547,6 +547,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249304,
+            "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
+            "match_name": "Delhi Dynamos vs Gurugram Gladiators",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
+            "team_1": "Delhi Dynamos",
+            "team_2": "Gurugram Gladiators",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Motorsports",
             "match_id": 139656,
             "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2026)",
@@ -609,19 +622,6 @@
             "team_2": "Baku",
             "status": "UPCOMING",
             "startTime": "03:45:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249304,
-            "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
-            "match_name": "Delhi Dynamos vs Gurugram Gladiators",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
-            "team_1": "Delhi Dynamos",
-            "team_2": "Gurugram Gladiators",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 26-09-2026",
             "user-agent": null
         },
         {
