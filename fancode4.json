@@ -2,14 +2,33 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "07:03:18 PM 25-09-2026",
-    "generated_at": "2026-09-25 13:55:10",
+    "source_last_updated": "07:33:38 PM 25-09-2026",
+    "generated_at": "2026-09-25 14:05:13",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 1,
-    "upcoming_matches_count": 39,
+    "live_matches_count": 2,
+    "upcoming_matches_count": 38,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "match_id": "4249581_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Puri Titans vs Keonjhar Miners [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Keonjhar Miners",
+            "status": "LIVE",
+            "startTime": "07:30:00 PM 25-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249581_ENG/english.m3u8"
+                }
+            ]
+        },
         {
             "event_category": "Tennis",
             "match_id": "4248546_ENG",
@@ -28,19 +47,6 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248546_ENG/english.m3u8"
                 }
             ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249581,
-            "title": "Puri Titans vs Keonjhar Miners (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Keonjhar Miners",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Keonjhar Miners",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 25-09-2026",
-            "user-agent": null
         },
         {
             "event_category": "Cricket",
@@ -539,6 +545,25 @@
     ],
     "live_matches": [
         {
+            "event_category": "Cricket",
+            "match_id": "4249581_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Puri Titans vs Keonjhar Miners [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Keonjhar Miners",
+            "status": "LIVE",
+            "startTime": "07:30:00 PM 25-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249581_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Tennis",
             "match_id": "4248546_ENG",
             "title": "ATP 250 - Hangzhou Open 2026 [English]",
@@ -559,19 +584,6 @@
         }
     ],
     "upcoming_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": 4249581,
-            "title": "Puri Titans vs Keonjhar Miners (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Keonjhar Miners",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Keonjhar Miners",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 25-09-2026",
-            "user-agent": null
-        },
         {
             "event_category": "Cricket",
             "match_id": 4249304,
