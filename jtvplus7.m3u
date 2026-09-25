@@ -6557,11 +6557,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=284db1a465ee50c081b7fa9735c4e000:26d05a4a82a0d6eb317dd861a06d746c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790296860~exp=1790300460~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=5883c34543b6a6157c9719e0d6d5d9284c713f50dbaa1c2be0f2747572529dd3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790300368~exp=1790303968~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=2ea8c92289a67fec0417446830b51ef951923f2d6cf23e0309b4abd2b0fce1ef
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790296860~exp=1790300460~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=5883c34543b6a6157c9719e0d6d5d9284c713f50dbaa1c2be0f2747572529dd3
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790296860~exp=1790300460~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=5883c34543b6a6157c9719e0d6d5d9284c713f50dbaa1c2be0f2747572529dd3"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790300368~exp=1790303968~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=2ea8c92289a67fec0417446830b51ef951923f2d6cf23e0309b4abd2b0fce1ef
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790300368~exp=1790303968~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=2ea8c92289a67fec0417446830b51ef951923f2d6cf23e0309b4abd2b0fce1ef"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" group-title="Telugu",Zee Telugu HD
