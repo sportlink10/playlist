@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "07:33:38 PM 25-09-2026",
-    "generated_at": "2026-09-25 14:05:13",
+    "source_last_updated": "07:43:45 PM 25-09-2026",
+    "generated_at": "2026-09-25 14:20:11",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -192,19 +192,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 4249606,
-            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Feature Race 2",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Feature Race 2",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4248485,
             "title": "London City Lionesses vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
@@ -215,6 +202,19 @@
             "team_2": "Brighton and Hove Albion Women",
             "status": "UPCOMING",
             "startTime": "09:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4249606,
+            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 2",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Feature Race 2",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -728,19 +728,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 4249606,
-            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Feature Race 2",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Feature Race 2",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4248485,
             "title": "London City Lionesses vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
@@ -751,6 +738,19 @@
             "team_2": "Brighton and Hove Albion Women",
             "status": "UPCOMING",
             "startTime": "09:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4249606,
+            "title": "Feature Race 2 vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Feature Race 2",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Feature Race 2",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
