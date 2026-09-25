@@ -18,28 +18,28 @@
 #EXTM3U url-tvg="https://avkb.short.gy/jioepg.xml.gz" tvg-url="https://avkb.short.gy/jioepg.xml.gz" refresh="3600"
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/2305/1788708712305-h" tvg-category="Entertainment" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bigboss 24/7 live-HINDI
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":""}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index_6.m3u8?|cookie=&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608"}
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index_6.m3u8?|cookie=hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-BANGLA" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/2976/1788186702976-h" tvg-category="Entertainment" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bigboss 24/7 live-BANGLA
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":""}
-https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-ben-2026/d8b1f4b4b6ad493d845fb9669712ee6e/index_6.m3u8?|cookie=&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608"}
+https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-ben-2026/d8b1f4b4b6ad493d845fb9669712ee6e/index_6.m3u8?|cookie=hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-KANNADA" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/5282/1788795265282-h" tvg-category="Entertainment" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bigboss 24/7 live-KANNADA
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":""}
-https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index_6.m3u8?|cookie=&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608"}
+https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index_6.m3u8?|cookie=hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-MALAYALAM" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6575/1788707966575-h" tvg-category="Entertainment" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bigboss 24/7 live-MALAYALAM
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":""}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8?|cookie=&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608"}
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8?|cookie=hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-TELUGU" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/9898/1788794499898-h" tvg-category="Entertainment" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bigboss 24/7 live-TELUGU
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":""}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8?|cookie=&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608"}
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8?|cookie=hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-TAMIL" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6904/1788866256904-h" tvg-category="Entertainment" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bigboss 24/7 live-TAMIL
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":""}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8?|cookie=&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608"}
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8?|cookie=hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/2305/1788708712305-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-4K Bigboss 24/7 live-HINDI
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608"}
@@ -785,13 +785,13 @@ https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024761/1790325177849494_athletics_live_india_in_action_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India In Action - Athletics - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790374349~acl=/*~id=56765646827778963203093435827929~hmac=d51d9c9b36fa3091aaa4d4b293ee19dc559b88f5067260021f660792c1e70187
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790376168~acl=/*~id=17640063788100314935230132759154~hmac=d3c78d0affb9465f7a981008863255daf6bcf7f621944bb9a0d63a284b004170
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024761/1790325177849494_athletics_live_india_in_action_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India In Action - Athletics - 25 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790374349~acl=/*~id=56765646827778963203093435827929~hmac=d51d9c9b36fa3091aaa4d4b293ee19dc559b88f5067260021f660792c1e70187
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790376168~acl=/*~id=17640063788100314935230132759154~hmac=d3c78d0affb9465f7a981008863255daf6bcf7f621944bb9a0d63a284b004170
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024761/1790325177849494_athletics_live_india_in_action_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India In Action - Athletics - 25 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790374349~acl=/*~id=56765646827778963203093435827929~hmac=d51d9c9b36fa3091aaa4d4b293ee19dc559b88f5067260021f660792c1e70187
+https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790376168~acl=/*~id=17640063788100314935230132759154~hmac=d3c78d0affb9465f7a981008863255daf6bcf7f621944bb9a0d63a284b004170
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024761/1790325177849494_athletics_live_india_in_action_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",India In Action - Athletics - 25 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790374349~acl=/*~id=56765646827778963203093435827929~hmac=d51d9c9b36fa3091aaa4d4b293ee19dc559b88f5067260021f660792c1e70187
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790376168~acl=/*~id=17640063788100314935230132759154~hmac=d3c78d0affb9465f7a981008863255daf6bcf7f621944bb9a0d63a284b004170
 
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
@@ -801,9 +801,6 @@ https://in-mc-flive.fancode.com/mumbai/4249278_english_hls_99842b20a865785_1ta-d
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Rourkela Superstars vs Kataka Panthers
 #EXTHTTP:{"Origin":"","Referer":""}
 https://in-mc-flive.fancode.com/mumbai/4249580_english_hls_48481373ef27142_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790411408~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef27142_1ta-di_h264/*~Signature=AUh_zpV314UGagJtDoYeSHy6jL3iVGQgjcUHj6NG0X8naQsPivnYmp9Qk9osELMFQahFNCoQbU9ZFSlnzH_RzA9WF6YO
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 3
-#EXTHTTP:{"Origin":"","Referer":""}
-https://in-mc-flive.fancode.com/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790398076~_GO=Generated~acl=/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_h264/*~Signature=AUh_zpW4DsHd3L3IYuZyVUX0z8danZBMZfuF6Wsj0FwQ0YvRn3C7Qy3jm8nO5FPZKZ9tyJdfbgaSrqLcrb0wogi4uzgI
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - Day 3
 #EXTHTTP:{"Origin":"","Referer":""}
 https://in-mc-flive.fancode.com/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790399898~_GO=Generated~acl=/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/*~Signature=AUh_zpWk-DEaJGGC7tOQv2pdrowWE4VCNfe5H-ZmwxLk34D5WctT6viHqTj-huJ5vzlSMcLZvJHsJCJh6yMsQJLX3uEC
@@ -2145,8 +2142,8 @@ https://onekey.virey40690.workers.dev/mpd/1110
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1115
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790310923~exp=1790332523~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=6365157d4ac5b2775dc742046627db9ef8fb886a13883be2bc6103072f1b63b1","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1790310923~exp=1790332523~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=6365157d4ac5b2775dc742046627db9ef8fb886a13883be2bc6103072f1b63b1
+#EXTHTTP:{"cookie":"st=1790332825~exp=1790354425~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=6b7d946d88bdf91c4a85bc6778291f5c2b33a3d643b2ea7d1ab1f0a008510923","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1790332825~exp=1790354425~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=6b7d946d88bdf91c4a85bc6778291f5c2b33a3d643b2ea7d1ab1f0a008510923
 
 #EXTINF:-1 tvg-id="1158" group-title="JIO ⭕|English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2215,8 +2212,8 @@ https://onekey.virey40690.workers.dev/mpd/1325
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1332
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790328542~exp=1790332142~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=4b69f598760dbd717b7f11094d506185b21c9cdd21d70883545fc4c698668a43","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790328542~exp=1790332142~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=4b69f598760dbd717b7f11094d506185b21c9cdd21d70883545fc4c698668a43
+#EXTHTTP:{"cookie":"st=1790332130~exp=1790335730~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=b427d4c8cee0a353ad972f5a569bfa60d36c6ea9ea74b1678a25e6cd1dfb3603","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790332130~exp=1790335730~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=b427d4c8cee0a353ad972f5a569bfa60d36c6ea9ea74b1678a25e6cd1dfb3603
 
 #EXTINF:-1 tvg-id="1335" group-title="JIO ⭕|English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png",National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4866,8 +4863,8 @@ https://onekey.virey40690.workers.dev/mpd/185
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/415
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790328195~exp=1790331795~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=eab8ae6ecbb1ff541d512e759c1201145b10462d94025107523e5719880929dd","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790328195~exp=1790331795~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=eab8ae6ecbb1ff541d512e759c1201145b10462d94025107523e5719880929dd
+#EXTHTTP:{"cookie":"st=1790331795~exp=1790335395~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=3b6d268a5bf94845d2c66dd62b3355bbca3f58c4ed6e5e6d57bbdfc6055fe577","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790331795~exp=1790335395~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=3b6d268a5bf94845d2c66dd62b3355bbca3f58c4ed6e5e6d57bbdfc6055fe577
 
 #EXTINF:-1 tvg-id="476" group-title="JIO ⭕|Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
