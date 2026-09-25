@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "09:14:36 PM 25-09-2026",
-    "generated_at": "2026-09-25 15:55:11",
+    "source_last_updated": "09:24:41 PM 25-09-2026",
+    "generated_at": "2026-09-25 16:10:08",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -134,19 +134,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249105,
-            "title": "Day 2 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4248485,
             "title": "London City Lionesses vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
@@ -157,6 +144,19 @@
             "team_2": "Brighton and Hove Albion Women",
             "status": "UPCOMING",
             "startTime": "09:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249105,
+            "title": "Day 2 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 PM 25-09-2026",
             "user-agent": null
         },
         {
@@ -664,19 +664,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249105,
-            "title": "Day 2 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 2 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 2 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4248485,
             "title": "London City Lionesses vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
@@ -687,6 +674,19 @@
             "team_2": "Brighton and Hove Albion Women",
             "status": "UPCOMING",
             "startTime": "09:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249105,
+            "title": "Day 2 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 2 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 PM 25-09-2026",
             "user-agent": null
         },
         {
