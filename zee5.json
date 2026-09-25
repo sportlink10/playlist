@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "03:30:10 PM 25-09-2026",
+  "last_updated": "04:30:06 PM 25-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,40 +16,6 @@
     "ALL_IN_ONE": "OFF"
   },
   "matches": [
-    {
-      "id": "0-1-6z51083170",
-      "title": "HE Vs TT",
-      "description": "Watch Haridwar Elmas Vs Tehri Titans LIVE & Exclusive only on ZEE5. UPL'26",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "advertisement_downloadable",
-      "releaseDate": "Friday, 25 September 2026",
-      "languages": [
-        "hindi"
-      ],
-      "audioLanguages": [
-        "hi"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083170/list/1920x1080list9f6cffbb5b02467da92573c09e5bd2be4fea46a4e01541d098f8775ede921fbd.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083170/cover/1920x77056661a2afc504638890965d1ff68274a79cde9bf49074a76a3344755a517886f26d59ffe3176492e96dbb80141bdf5f9.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083170/appCover/1920x1080appcover8c55ec469f8f48a890bc2bc9c02996e18654194df9004c7fb0d1de4c00fc2ab3.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083170/verticalBanner/845x10800b539dba146b40e3b3ea232eae477fa41085c4de1e7745749e3adccac6b9b5bf.jpg"
-      },
-      "playback": {
-        "hindi": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109038/UPL-M12_ENG/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "expire_at": "Saturday 26th of September 2026 03:30:09 PM",
-          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M12_ENG/master_360p.m3u8?hdntl=exp=1790416809~acl=%2f*~id=0-1-6z51083170_731d919f-8cf1-4f32-8cbf-52c637f873a5~data=hdntl,2109038,UPL-M12,ENG,226013374710d41ad792da14a27c8d6506a3f4b16a17ad28be244e032a7a1315~hmac=05e1c313d7768a3f71b6681760564d5f8d42fa7ab41583097d6d07274cbdd6ca\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M12_ENG/master_480p.m3u8?hdntl=exp=1790416809~acl=%2f*~id=0-1-6z51083170_731d919f-8cf1-4f32-8cbf-52c637f873a5~data=hdntl,2109038,UPL-M12,ENG,226013374710d41ad792da14a27c8d6506a3f4b16a17ad28be244e032a7a1315~hmac=05e1c313d7768a3f71b6681760564d5f8d42fa7ab41583097d6d07274cbdd6ca\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M12_ENG/master_576P.m3u8?hdntl=exp=1790416809~acl=%2f*~id=0-1-6z51083170_731d919f-8cf1-4f32-8cbf-52c637f873a5~data=hdntl,2109038,UPL-M12,ENG,226013374710d41ad792da14a27c8d6506a3f4b16a17ad28be244e032a7a1315~hmac=05e1c313d7768a3f71b6681760564d5f8d42fa7ab41583097d6d07274cbdd6ca\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M12_ENG/master_720p.m3u8?hdntl=exp=1790416809~acl=%2f*~id=0-1-6z51083170_731d919f-8cf1-4f32-8cbf-52c637f873a5~data=hdntl,2109038,UPL-M12,ENG,226013374710d41ad792da14a27c8d6506a3f4b16a17ad28be244e032a7a1315~hmac=05e1c313d7768a3f71b6681760564d5f8d42fa7ab41583097d6d07274cbdd6ca\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M12_ENG/master_1080p.m3u8?hdntl=exp=1790416809~acl=%2f*~id=0-1-6z51083170_731d919f-8cf1-4f32-8cbf-52c637f873a5~data=hdntl,2109038,UPL-M12,ENG,226013374710d41ad792da14a27c8d6506a3f4b16a17ad28be244e032a7a1315~hmac=05e1c313d7768a3f71b6681760564d5f8d42fa7ab41583097d6d07274cbdd6ca\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109038/UPL-M12_ENG/master_aud.m3u8?hdntl=exp=1790416809~acl=%2f*~id=0-1-6z51083170_731d919f-8cf1-4f32-8cbf-52c637f873a5~data=hdntl,2109038,UPL-M12,ENG,226013374710d41ad792da14a27c8d6506a3f4b16a17ad28be244e032a7a1315~hmac=05e1c313d7768a3f71b6681760564d5f8d42fa7ab41583097d6d07274cbdd6ca\""
-        }
-      }
-    },
     {
       "id": "0-1-6z51083188",
       "title": "PH Vs USN",
