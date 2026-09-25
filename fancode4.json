@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "09:17:18 AM 25-09-2026",
-    "generated_at": "2026-09-25 03:55:10",
+    "source_last_updated": "09:37:30 AM 25-09-2026",
+    "generated_at": "2026-09-25 04:15:10",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 37,
-    "live_matches_count": 1,
-    "upcoming_matches_count": 36,
+    "live_matches_count": 2,
+    "upcoming_matches_count": 35,
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,6 +28,38 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249278_ENG/english.m3u8"
                 }
             ]
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": "139656_ENG",
+            "title": "F2 AZERBAIJAN 2026 [English]",
+            "match_name": "Sprint Race [English]",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Sprint Race",
+            "team_2": "Baku",
+            "status": "LIVE",
+            "startTime": "09:45:00 AM 25-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139656_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249575,
+            "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1790170352090.jpg",
+            "team_1": "Sambalpur Warriors",
+            "team_2": "Bhubaneshwar Tigers",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 AM 25-09-2026",
+            "user-agent": null
         },
         {
             "event_category": "Cricket",
@@ -56,16 +88,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139656,
-            "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Sprint Race",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Sprint Race",
-            "team_2": "Baku",
+            "event_category": "Tennis",
+            "match_id": 4248539,
+            "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "Day 3",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Day 3",
+            "team_2": "Chengdu, China",
             "status": "UPCOMING",
-            "startTime": "09:45:00 AM 25-09-2026",
+            "startTime": "10:30:00 AM 25-09-2026",
             "user-agent": null
         },
         {
@@ -105,19 +137,6 @@
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248539,
-            "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 3",
-            "team_2": "Chengdu, China",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 25-09-2026",
             "user-agent": null
         },
         {
@@ -480,19 +499,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
             "team_1": "Liverpool Women",
             "team_2": "Everton Women",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248489,
-            "title": "Tottenham Hotspur Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Tottenham Hotspur Women vs Aston Villa Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "Aston Villa Women",
             "status": "UPCOMING",
             "startTime": "06:30:00 PM 27-09-2026",
             "user-agent": null
@@ -517,9 +523,41 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249278_ENG/english.m3u8"
                 }
             ]
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": "139656_ENG",
+            "title": "F2 AZERBAIJAN 2026 [English]",
+            "match_name": "Sprint Race [English]",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+            "team_1": "Sprint Race",
+            "team_2": "Baku",
+            "status": "LIVE",
+            "startTime": "09:45:00 AM 25-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139656_ENG/english.m3u8"
+                }
+            ]
         }
     ],
     "upcoming_matches": [
+        {
+            "event_category": "Cricket",
+            "match_id": 4249575,
+            "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1790170352090.jpg",
+            "team_1": "Sambalpur Warriors",
+            "team_2": "Bhubaneshwar Tigers",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 AM 25-09-2026",
+            "user-agent": null
+        },
         {
             "event_category": "Cricket",
             "match_id": 4249580,
@@ -547,16 +585,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139656,
-            "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Sprint Race",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
-            "team_1": "Sprint Race",
-            "team_2": "Baku",
+            "event_category": "Tennis",
+            "match_id": 4248539,
+            "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "Day 3",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Day 3",
+            "team_2": "Chengdu, China",
             "status": "UPCOMING",
-            "startTime": "09:45:00 AM 25-09-2026",
+            "startTime": "10:30:00 AM 25-09-2026",
             "user-agent": null
         },
         {
@@ -596,19 +634,6 @@
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248539,
-            "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 3",
-            "team_2": "Chengdu, China",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 25-09-2026",
             "user-agent": null
         },
         {
@@ -971,19 +996,6 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4248488_53038_LIV-W_EVE-W_fc-web.jpg",
             "team_1": "Liverpool Women",
             "team_2": "Everton Women",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248489,
-            "title": "Tottenham Hotspur Women vs Aston Villa Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Tottenham Hotspur Women vs Aston Villa Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248489_53038_TOT-W_AST-W_fc-web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "Aston Villa Women",
             "status": "UPCOMING",
             "startTime": "06:30:00 PM 27-09-2026",
             "user-agent": null
