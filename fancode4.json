@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "07:43:45 PM 25-09-2026",
-    "generated_at": "2026-09-25 14:20:11",
+    "source_last_updated": "08:14:02 PM 25-09-2026",
+    "generated_at": "2026-09-25 14:45:09",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -50,6 +50,19 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4249998,
+            "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Sambalpur Warriors",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4249304,
             "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
             "match_name": "Delhi Dynamos vs Gurugram Gladiators",
@@ -85,19 +98,6 @@
             "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249998,
-            "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 26-09-2026",
             "user-agent": null
         },
         {
@@ -586,6 +586,19 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
+            "match_id": 4249998,
+            "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Sambalpur Warriors",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4249304,
             "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
             "match_name": "Delhi Dynamos vs Gurugram Gladiators",
@@ -621,19 +634,6 @@
             "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249998,
-            "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 26-09-2026",
             "user-agent": null
         },
         {
