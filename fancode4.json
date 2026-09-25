@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "10:07:50 AM 25-09-2026",
-    "generated_at": "2026-09-25 04:45:13",
+    "source_last_updated": "10:17:56 AM 25-09-2026",
+    "generated_at": "2026-09-25 04:55:18",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 37,
-    "live_matches_count": 3,
-    "upcoming_matches_count": 34,
+    "live_matches_count": 4,
+    "upcoming_matches_count": 33,
     "matches": [
         {
             "event_category": "Cricket",
@@ -68,6 +68,25 @@
             ]
         },
         {
+            "event_category": "Tennis",
+            "match_id": "4248539_ENG",
+            "title": "ATP 250 - Chengdu Open 2026 [English]",
+            "match_name": "Day 3 [English]",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Day 3",
+            "team_2": "Chengdu, China",
+            "status": "LIVE",
+            "startTime": "10:30:00 AM 25-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248539_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4249580,
             "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
@@ -91,19 +110,6 @@
             "team_2": "Keonjhar Miners",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248539,
-            "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 3",
-            "team_2": "Chengdu, China",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 25-09-2026",
             "user-agent": null
         },
         {
@@ -567,6 +573,25 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139656_ENG/english.m3u8"
                 }
             ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4248539_ENG",
+            "title": "ATP 250 - Chengdu Open 2026 [English]",
+            "match_name": "Day 3 [English]",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Day 3",
+            "team_2": "Chengdu, China",
+            "status": "LIVE",
+            "startTime": "10:30:00 AM 25-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248539_ENG/english.m3u8"
+                }
+            ]
         }
     ],
     "upcoming_matches": [
@@ -594,19 +619,6 @@
             "team_2": "Keonjhar Miners",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 25-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248539,
-            "title": "Day 3 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 3",
-            "team_2": "Chengdu, China",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 25-09-2026",
             "user-agent": null
         },
         {
