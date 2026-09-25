@@ -13,40 +13,22 @@ https://dai-fancode.pages.dev/mumbai/4248539_english_hls_b2cf70dc6c49752_1ta-di_
 #EXTINF:-1 tvg-id="4248546" tvg-name="Day 3 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 3
 https://dai-fancode.pages.dev/mumbai/4248546_english_hls_060de42e452278_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (10 channels) =====
-#EXTINF:-1 tvg-name="India In Action - Squash - 25 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Squash - 25 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
+#===== SonyLIV | Sportlink (4 channels) =====
+#EXTINF:-1 tvg-name="Day 7 - 25 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Day 7 - 25 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790361611~acl=/*~id=97148654218517768293372819257769~hmac=f954394ebe9e8033f7609c3f9b344c61e96a69089673403848c9516af3ca118e
 
-#EXTINF:-1 tvg-name="India In Action - Squash - 25 Sep 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Squash - 25 Sep 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
+#EXTINF:-1 tvg-name="Day 7 - 25 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Day 7 - 25 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790361611~acl=/*~id=97148654218517768293372819257769~hmac=f954394ebe9e8033f7609c3f9b344c61e96a69089673403848c9516af3ca118e
 
-#EXTINF:-1 tvg-name="India In Action - Squash - 25 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Squash - 25 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
+#EXTINF:-1 tvg-name="Day 7 - 25 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Day 7 - 25 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790361611~acl=/*~id=97148654218517768293372819257769~hmac=f954394ebe9e8033f7609c3f9b344c61e96a69089673403848c9516af3ca118e
 
-#EXTINF:-1 tvg-name="India In Action - Squash - 25 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Squash - 25 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
-
-#EXTINF:-1 tvg-name="India In Action - Squash - 25 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Squash - 25 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
-
-#EXTINF:-1 tvg-name="India vs Thailand - Kabaddi- 25 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Thailand - Kabaddi- 25 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
-
-#EXTINF:-1 tvg-name="India vs Thailand - Kabaddi- 25 Sep 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Thailand - Kabaddi- 25 Sep 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
-
-#EXTINF:-1 tvg-name="India vs Thailand - Kabaddi- 25 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Thailand - Kabaddi- 25 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
-
-#EXTINF:-1 tvg-name="India vs Thailand - Kabaddi- 25 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Thailand - Kabaddi- 25 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
-
-#EXTINF:-1 tvg-name="India vs Thailand - Kabaddi- 25 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Thailand - Kabaddi- 25 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790358579~acl=/*~id=08520720922754614214400301997556~hmac=5db9c9036bc0b534c1156a05447cd719687bd1a09e308718ac47856ba535e176
+#EXTINF:-1 tvg-name="Day 7 - 25 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Day 7 - 25 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790361611~acl=/*~id=97148654218517768293372819257769~hmac=f954394ebe9e8033f7609c3f9b344c61e96a69089673403848c9516af3ca118e
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:32 AM 25-09-2026
+#LAST_UPDATE:12:32 PM 25-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -59,12 +41,12 @@ https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800
 #KODIPROP:inputstream.adaptive.license_key=7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kvdztx0wyt/out/v1/35c85c1cc5264ddaa6d601acb893c9bf/cenc.mpd
 
-#===== Prime Video | Sportlink (4 channels) =====
+#===== Prime Video | Sportlink (3 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:32 AM 25-09-2026
+#LAST_UPDATE:12:32 PM 25-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:2
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HFHJZTYX" tvg-name="Predator Pro Billiard Series: Vietnam @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/16/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Predator Pro Billiard Series: Vietnam
@@ -72,28 +54,21 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kvdztx0wyt/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HJJLKWSD" tvg-name="Tennis Today Live-Singapore-WTA, Seoul-WTA Quarterfinals; Chengdu-ATP & Hangzhou-ATP Early Rounds @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.723a5163-d6c5-4d7a-bfc5-c8fbf06ce4a0/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Tennis Today Live-Singapore-WTA, Seoul-WTA Quarterfinals; Chengdu-ATP & Hangzhou-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HGMS9JJN" tvg-name="Shooting @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.4e9d9151-0f18-4201-a749-bd3c1c96f899/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Shooting
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #===== AXS | Sportlink (6 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:02:32 PM 25-09-2026
+#last update time: 12:32:27 PM 25-09-2026
 
 #EXTINF:-1 tvg-name="WTA Seoul - WTA Seoul @virat10" tvg-id="81580" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Seoul.jpg" group-title="AXS | Sportlink", WTA Seoul - WTA Seoul
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
