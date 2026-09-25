@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "09:47:36 AM 25-09-2026",
-    "generated_at": "2026-09-25 04:30:04",
+    "source_last_updated": "10:07:50 AM 25-09-2026",
+    "generated_at": "2026-09-25 04:45:13",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 37,
-    "live_matches_count": 2,
-    "upcoming_matches_count": 35,
+    "live_matches_count": 3,
+    "upcoming_matches_count": 34,
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,25 @@
             ]
         },
         {
+            "event_category": "Cricket",
+            "match_id": "4249575_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1790170352090.jpg",
+            "team_1": "Sambalpur Warriors",
+            "team_2": "Bhubaneshwar Tigers",
+            "status": "LIVE",
+            "startTime": "10:30:00 AM 25-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249575_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Motorsports",
             "match_id": "139656_ENG",
             "title": "F2 AZERBAIJAN 2026 [English]",
@@ -47,19 +66,6 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139656_ENG/english.m3u8"
                 }
             ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249575,
-            "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1790170352090.jpg",
-            "team_1": "Sambalpur Warriors",
-            "team_2": "Bhubaneshwar Tigers",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 25-09-2026",
-            "user-agent": null
         },
         {
             "event_category": "Cricket",
@@ -114,6 +120,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Tennis",
+            "match_id": 4248546,
+            "title": "Day 3 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "Day 3",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "Day 3",
+            "team_2": "Hangzhou, China",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 AM 25-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4249304,
             "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
@@ -137,19 +156,6 @@
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248546,
-            "title": "Day 3 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 3",
-            "team_2": "Hangzhou, China",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 25-09-2026",
             "user-agent": null
         },
         {
@@ -322,19 +328,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249106,
-            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4248164,
             "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
@@ -358,6 +351,19 @@
             "team_2": "Cádiz",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249106,
+            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 3 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -525,6 +531,25 @@
             ]
         },
         {
+            "event_category": "Cricket",
+            "match_id": "4249575_ENG",
+            "title": "Odisha T20 League 2026 [English]",
+            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers [English]",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1790170352090.jpg",
+            "team_1": "Sambalpur Warriors",
+            "team_2": "Bhubaneshwar Tigers",
+            "status": "LIVE",
+            "startTime": "10:30:00 AM 25-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249575_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Motorsports",
             "match_id": "139656_ENG",
             "title": "F2 AZERBAIJAN 2026 [English]",
@@ -545,19 +570,6 @@
         }
     ],
     "upcoming_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": 4249575,
-            "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Sambalpur Warriors vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249575_53080_SAW_BBT_fc-web_1790170352090.jpg",
-            "team_1": "Sambalpur Warriors",
-            "team_2": "Bhubaneshwar Tigers",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 25-09-2026",
-            "user-agent": null
-        },
         {
             "event_category": "Cricket",
             "match_id": 4249580,
@@ -611,6 +623,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Tennis",
+            "match_id": 4248546,
+            "title": "Day 3 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "Day 3",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "Day 3",
+            "team_2": "Hangzhou, China",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 AM 25-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4249304,
             "title": "Delhi Dynamos vs Gurugram Gladiators (NCR T20 League, 2026)",
@@ -634,19 +659,6 @@
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248546,
-            "title": "Day 3 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Day 3",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 3",
-            "team_2": "Hangzhou, China",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 25-09-2026",
             "user-agent": null
         },
         {
@@ -819,19 +831,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4249106,
-            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4248164,
             "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
@@ -855,6 +854,19 @@
             "team_2": "Cádiz",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4249106,
+            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 3 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
