@@ -2,33 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "05:16:28 PM 26-09-2026",
-    "generated_at": "2026-09-26 12:00:08",
+    "source_last_updated": "05:36:44 PM 26-09-2026",
+    "generated_at": "2026-09-26 12:20:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 42,
-    "live_matches_count": 7,
-    "upcoming_matches_count": 35,
+    "live_matches_count": 6,
+    "upcoming_matches_count": 36,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249304_ENG",
-            "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Gurugram Gladiators vs Delhi Dynamos [English]",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Delhi Dynamos",
-            "status": "LIVE",
-            "startTime": "01:00:00 PM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249304_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": "4249583_ENG",
@@ -274,6 +255,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Golf",
+            "match_id": 4249106,
+            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 3 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4249584,
             "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
@@ -297,19 +291,6 @@
             "team_2": "Punjab FC",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Golf",
-            "match_id": 4249106,
-            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -597,28 +578,22 @@
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 29-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248543,
+            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "ATP 250 - Chengdu Open 2026",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_2": "Chengdu, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 29-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249304_ENG",
-            "title": "NCR T20 League, 2026 [English]",
-            "match_name": "Gurugram Gladiators vs Delhi Dynamos [English]",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249304_53073_DEA_GGL_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Delhi Dynamos",
-            "status": "LIVE",
-            "startTime": "01:00:00 PM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249304_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": "4249583_ENG",
@@ -866,6 +841,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Golf",
+            "match_id": 4249106,
+            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
+            "match_name": "Day 3 - World Feed",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4249584,
             "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
@@ -889,19 +877,6 @@
             "team_2": "Punjab FC",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Golf",
-            "match_id": 4249106,
-            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -1188,6 +1163,19 @@
             "team_2": "Ghaziabad Giants",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248543,
+            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "ATP 250 - Chengdu Open 2026",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_2": "Chengdu, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 29-09-2026",
             "user-agent": null
         }
     ]
