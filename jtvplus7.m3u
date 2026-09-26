@@ -5573,11 +5573,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790398219~exp=1790419819~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=77444e11442e6bc295a265cf7eaa86a461c222befe5d6eef6955c99d0bde7306
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790419826~exp=1790441426~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=20d067685de1ae81b9dcb8c42e586f12765097caf9d7f2bdf363a883657eaa2d
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790398219~exp=1790419819~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=77444e11442e6bc295a265cf7eaa86a461c222befe5d6eef6955c99d0bde7306
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790398219~exp=1790419819~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=77444e11442e6bc295a265cf7eaa86a461c222befe5d6eef6955c99d0bde7306"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790419826~exp=1790441426~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=20d067685de1ae81b9dcb8c42e586f12765097caf9d7f2bdf363a883657eaa2d
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790419826~exp=1790441426~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=20d067685de1ae81b9dcb8c42e586f12765097caf9d7f2bdf363a883657eaa2d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1117" tvg-name="Suvarna" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png" group-title="Kannada",Suvarna
@@ -9593,11 +9593,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_North_East_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=521f555c43e25d75a2a532a35358cee6:8822f0168bbf58fb70f4171c92ad61bb
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790416205~exp=1790419805~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=f38b64df5ae9227e2ab32b740a6c4c16b38fcd23e0f18bdefd92d68e1e3938f8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790419793~exp=1790423393~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=4b221b15219c6bac0032560bd934e8d5479f72bccd74c2c514d5ab40eea24541
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790416205~exp=1790419805~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=f38b64df5ae9227e2ab32b740a6c4c16b38fcd23e0f18bdefd92d68e1e3938f8
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790416205~exp=1790419805~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=f38b64df5ae9227e2ab32b740a6c4c16b38fcd23e0f18bdefd92d68e1e3938f8"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790419793~exp=1790423393~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=4b221b15219c6bac0032560bd934e8d5479f72bccd74c2c514d5ab40eea24541
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790419793~exp=1790423393~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=4b221b15219c6bac0032560bd934e8d5479f72bccd74c2c514d5ab40eea24541"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2764" tvg-name="News State Bihar Jharkhand" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NewsState_Bihar_JH.png" group-title="News",News State Bihar Jharkhand
