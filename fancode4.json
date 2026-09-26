@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "01:54:21 PM 26-09-2026",
-    "generated_at": "2026-09-26 08:25:10",
+    "source_last_updated": "02:04:27 PM 26-09-2026",
+    "generated_at": "2026-09-26 08:40:11",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -126,19 +126,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249526,
-            "title": "Sreenidi Deccan FC vs NorthEast United FC (IFA Shield 2026)",
-            "match_name": "Sreenidi Deccan FC vs NorthEast United FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "NorthEast United FC",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249574,
             "title": "Puri Titans vs Kataka Panthers (Odisha T20 League 2026)",
@@ -149,6 +136,19 @@
             "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "10:30:00 AM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249526,
+            "title": "Sreenidi Deccan FC vs NorthEast United FC (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs NorthEast United FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "NorthEast United FC",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -674,19 +674,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249526,
-            "title": "Sreenidi Deccan FC vs NorthEast United FC (IFA Shield 2026)",
-            "match_name": "Sreenidi Deccan FC vs NorthEast United FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "NorthEast United FC",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249574,
             "title": "Puri Titans vs Kataka Panthers (Odisha T20 League 2026)",
@@ -697,6 +684,19 @@
             "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "10:30:00 AM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249526,
+            "title": "Sreenidi Deccan FC vs NorthEast United FC (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs NorthEast United FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "NorthEast United FC",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
