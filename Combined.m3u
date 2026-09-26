@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (8 channels) =====
+#===== Fancode | Sportlink (9 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 26 September 2026 at 6:07:13 pm
+#DATE:- Saturday, 26 September 2026 at 6:14:11 pm
 
 #EXTINF:-1 tvg-id="4249583" tvg-name="Keonjhar Miners Vs Kataka Panthers @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1790170352097.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Keonjhar Miners Vs Kataka Panthers
 https://dai-fancode.pages.dev/mumbai/4249583_english_hls_a79d60a11a81662_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -25,25 +25,28 @@ https://dai-fancode.pages.dev/mumbai/139496_hindi_hls_ffe03c684c50482_1ta-di_h26
 #EXTINF:-1 tvg-id="139496" tvg-name="Race @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Azerbaijan-Grand-Prix-2026_web_1790152860785.jpg" tvg-language="Tamil" group-title="Fancode | Sportlink",TAM | Race
 https://dai-fancode.pages.dev/mumbai/139496_tamil_hls_125d2fc0f018682_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4249106" tvg-name="Day 3   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 3   World Feed
+https://dai-fancode.pages.dev/mumbai/4249106_english_hls_b86f41b4c015704_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (5 channels) =====
 #EXTINF:-1 tvg-name="India In Action - Athletics - 26 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024906/1790325177849787_athletics_live_india_in_action_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Athletics - 26 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790469080~acl=/*~id=79479565691021934969844928484028~hmac=e49b44949897d9b6b67d4f229a7f062f156517e8d4bc81c275fa88e7ba55b123
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790470294~acl=/*~id=11439546476394407583597006194158~hmac=298816e7c7845a2472af817d789ec39fdf87dea8a25893d0d8fbde3b322c00f2
 
 #EXTINF:-1 tvg-name="India In Action - Athletics - 26 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024906/1790325177849787_athletics_live_india_in_action_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Athletics - 26 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790469080~acl=/*~id=79479565691021934969844928484028~hmac=e49b44949897d9b6b67d4f229a7f062f156517e8d4bc81c275fa88e7ba55b123
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790470294~acl=/*~id=11439546476394407583597006194158~hmac=298816e7c7845a2472af817d789ec39fdf87dea8a25893d0d8fbde3b322c00f2
 
 #EXTINF:-1 tvg-name="India In Action - Athletics - 26 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024906/1790325177849787_athletics_live_india_in_action_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Athletics - 26 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790469080~acl=/*~id=79479565691021934969844928484028~hmac=e49b44949897d9b6b67d4f229a7f062f156517e8d4bc81c275fa88e7ba55b123
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790470294~acl=/*~id=11439546476394407583597006194158~hmac=298816e7c7845a2472af817d789ec39fdf87dea8a25893d0d8fbde3b322c00f2
 
 #EXTINF:-1 tvg-name="India In Action - Athletics - 26 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024906/1790325177849787_athletics_live_india_in_action_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Athletics - 26 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790469080~acl=/*~id=79479565691021934969844928484028~hmac=e49b44949897d9b6b67d4f229a7f062f156517e8d4bc81c275fa88e7ba55b123
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790470294~acl=/*~id=11439546476394407583597006194158~hmac=298816e7c7845a2472af817d789ec39fdf87dea8a25893d0d8fbde3b322c00f2
 
 #EXTINF:-1 tvg-name="Day 2 - Session 1 - 26 Sep 2026 [ENG] - Laver Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024853/1790380072911843_Laver_cup26_Cobolli_vs_Tien_day2_session1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Day 2 - Session 1 - 26 Sep 2026 [ENG] - Laver Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790469080~acl=/*~id=79479565691021934969844928484028~hmac=e49b44949897d9b6b67d4f229a7f062f156517e8d4bc81c275fa88e7ba55b123
+https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790470294~acl=/*~id=11439546476394407583597006194158~hmac=298816e7c7845a2472af817d789ec39fdf87dea8a25893d0d8fbde3b322c00f2
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 26-09-2026
+#LAST_UPDATE:07:02 PM 26-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -51,7 +54,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800
 
 #===== Prime Video | Sportlink (6 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:06:32 PM 26-09-2026
+#LAST_UPDATE:07:02 PM 26-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:6
@@ -62,86 +65,102 @@ https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFHJZTYX" tvg-name="Predator Pro Billiard Series: Vietnam @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/18/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Predator Pro Billiard Series: Vietnam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HJQ8TJMJ" tvg-name="Stihl Timbersports-BeNeLux Pro Championship @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.e7ff8344-1b19-4a06-9009-825c031c861b/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Stihl Timbersports-BeNeLux Pro Championship
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0GRBND72N" tvg-name="Finals, Second Semifinal: TBA @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.d5f5174c-5fa0-4c0b-93fd-d447c9a7ebf8/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Finals, Second Semifinal: TBA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HJJJP396" tvg-name="Athletics 08 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.0268bb97-4d09-47be-89a9-e21025415a99/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Athletics 08
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#===== AXS | Sportlink (12 channels) =====
+#===== AXS | Sportlink (16 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 6:32:29 PM 26-09-2026
+#last update time: 7:02:29 PM 26-09-2026
+
+#EXTINF:-1 tvg-name="Slovenia vs Scotland - UEFA Nations League [Server 1] @virat10" tvg-id="66545" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovenia%20vs%20Scotland.jpg" group-title="AXS | Sportlink", Slovenia vs Scotland - UEFA Nations League [Server 1]
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047014-hd/chunks.m3u8?is_vip=false&token=1790514152-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c07ede49aa313e92d7cb9ecae5798635
+
+#EXTINF:-1 tvg-name="Slovenia vs Scotland - UEFA Nations League [Server 2] @virat10" tvg-id="66545" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovenia%20vs%20Scotland.jpg" group-title="AXS | Sportlink", Slovenia vs Scotland - UEFA Nations League [Server 2]
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047014-fhd/chunks.m3u8?is_vip=false&token=1790514152-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-50fe5b3b434278d7a126724e44172025
+
+#EXTINF:-1 tvg-name="Slovenia vs Scotland - UEFA Nations League [Server 3] @virat10" tvg-id="66545" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovenia%20vs%20Scotland.jpg" group-title="AXS | Sportlink", Slovenia vs Scotland - UEFA Nations League [Server 3]
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c458047014/chunks.m3u8?is_vip=false&token=1790514153-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-55b25de49c3ec5adfe907f3797d35883
 
 #EXTINF:-1 tvg-name="WTA Singapore - WTA Singapore @virat10" tvg-id="83904" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="AXS | Sportlink", WTA Singapore - WTA Singapore
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1790512351-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-eaeaf2bbe210fc16cec1a76ec1489cfb
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1790514156-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cdf41945606db4b3963217c7c3683244
 
 #EXTINF:-1 tvg-name="ATP Hangzhou - ATP Hangzhou @virat10" tvg-id="83906" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Hangzhou.jpg" group-title="AXS | Sportlink", ATP Hangzhou - ATP Hangzhou
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790512355-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9494d8f10531f32c9d1b582539aee49c
-
-#EXTINF:-1 tvg-name="Azerbaijan Grand Prix 2026 - Formula 1 Main Race @virat10" tvg-id="72919" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Azerbaijan%20Grand%20Prix%202026.jpg" group-title="AXS | Sportlink", Azerbaijan Grand Prix 2026 - Formula 1 Main Race
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1790512358-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fd6098bf107bdc3ffe7270cac1ce2beb
-
-#EXTINF:-1 tvg-name="Vietnam vs Philippines - FIFA Asean Cup @virat10" tvg-id="81555" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Philippines.jpg" group-title="AXS | Sportlink", Vietnam vs Philippines - FIFA Asean Cup
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9976857cb66c539a0afc5e/chunks.m3u8?is_vip=false&token=1790512368-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-652d52ad892eb0620bbc812c3946d64a
-
-#EXTINF:-1 tvg-name="AD Ceuta FC vs Real Sociedad II - Segunda División [Server 1] @virat10" tvg-id="66339" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AD%20Ceuta%20FC%20vs%20Real%20Sociedad%20II.jpg" group-title="AXS | Sportlink", AD Ceuta FC vs Real Sociedad II - Segunda División [Server 1]
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73a-fhd/chunks.m3u8?is_vip=false&token=1790512374-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ffa0490ffd61a9345e1b2b56d9f9a172
-
-#EXTINF:-1 tvg-name="AD Ceuta FC vs Real Sociedad II - Segunda División [Server 2] @virat10" tvg-id="66339" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AD%20Ceuta%20FC%20vs%20Real%20Sociedad%20II.jpg" group-title="AXS | Sportlink", AD Ceuta FC vs Real Sociedad II - Segunda División [Server 2]
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73a/chunks.m3u8?is_vip=false&token=1790512374-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-194c47f3ff75766c8442ca6eef938c2a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790514161-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-82d906c75ac3293cb5dcce562320a212
 
 #EXTINF:-1 tvg-name="Laver cup - 2026 Laver Cup Tennis @virat10" tvg-id="83907" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Laver%20cup.jpg" group-title="AXS | Sportlink", Laver cup - 2026 Laver Cup Tennis
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1790512380-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b81a3e4f3fc43919a1a72ff5dc8663ce
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1790514174-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-66aedef88edbac5d324833cae0fdc1fa
+
+#EXTINF:-1 tvg-name="AD Ceuta FC vs Real Sociedad II - Segunda División [Server 1] @virat10" tvg-id="66339" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AD%20Ceuta%20FC%20vs%20Real%20Sociedad%20II.jpg" group-title="AXS | Sportlink", AD Ceuta FC vs Real Sociedad II - Segunda División [Server 1]
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73a/chunks.m3u8?is_vip=false&token=1790514182-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-419645f8679f88337e67a22bb7d04c82
+
+#EXTINF:-1 tvg-name="AD Ceuta FC vs Real Sociedad II - Segunda División [Server 2] @virat10" tvg-id="66339" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AD%20Ceuta%20FC%20vs%20Real%20Sociedad%20II.jpg" group-title="AXS | Sportlink", AD Ceuta FC vs Real Sociedad II - Segunda División [Server 2]
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841276b72017e628ba73a-fhd/chunks.m3u8?is_vip=false&token=1790514183-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8d78313ab2c7cd6a88299c961078b0d7
 
 #EXTINF:-1 tvg-name="Italy vs South Africa - WXV @virat10" tvg-id="68340" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Italy%20vs%20South%20Africa.jpg" group-title="AXS | Sportlink", Italy vs South Africa - WXV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790512383-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-10644d376cd899703c3055944d1c3bf6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790514186-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b9275f91c2c0d9f00ba52e4c3143fe60
 
 #EXTINF:-1 tvg-name="Charlton Athletic W vs Manchester City W - FA WSL [Server 1] @virat10" tvg-id="66356" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Charlton%20Athletic%20W%20vs%20Manchester%20City%20W.jpg" group-title="AXS | Sportlink", Charlton Athletic W vs Manchester City W - FA WSL [Server 1]
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fancode/chunks.m3u8?is_vip=false&token=1790512385-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6d569cbe2c5214954460e385fbffbe53
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fancode/chunks.m3u8?is_vip=false&token=1790514189-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2eb83bee1dcb8cefa40e9765f5512e59
 
 #EXTINF:-1 tvg-name="Charlton Athletic W vs Manchester City W - FA WSL [Server 2] @virat10" tvg-id="66356" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Charlton%20Athletic%20W%20vs%20Manchester%20City%20W.jpg" group-title="AXS | Sportlink", Charlton Athletic W vs Manchester City W - FA WSL [Server 2]
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c/chunks.m3u8?is_vip=false&token=1790512386-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-98315993a274540623b854dfb513b575
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c/chunks.m3u8?is_vip=false&token=1790514190-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-147db9464dc94f1af0b194586f28ea80
 
 #EXTINF:-1 tvg-name="Charlton Athletic W vs Manchester City W - FA WSL [Server 3] @virat10" tvg-id="66356" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Charlton%20Athletic%20W%20vs%20Manchester%20City%20W.jpg" group-title="AXS | Sportlink", Charlton Athletic W vs Manchester City W - FA WSL [Server 3]
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fhd/chunks.m3u8?is_vip=false&token=1790512386-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a359567081306204cd01079a184693ca
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa006a083c45804700c-fhd/chunks.m3u8?is_vip=false&token=1790514190-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2de348c5e731d168aa0b64673b8a09ff
+
+#EXTINF:-1 tvg-name="Botswana W vs Namibia W - Friendlies Women @virat10" tvg-id="75726" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Botswana%20W%20vs%20Namibia%20W.jpg" group-title="AXS | Sportlink", Botswana W vs Namibia W - Friendlies Women
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163d/chunks.m3u8?is_vip=false&token=1790514208-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2bd319818914311955164e9af24d7317
+
+#EXTINF:-1 tvg-name="South Africa vs Guinea - Africa Cup of Nations - Qualification @virat10" tvg-id="66493" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Africa%20vs%20Guinea.jpg" group-title="AXS | Sportlink", South Africa vs Guinea - Africa Cup of Nations - Qualification
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163e/chunks.m3u8?is_vip=false&token=1790514214-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9933f1862c7cb1dd837be95a3801d2df
+
+#EXTINF:-1 tvg-name="Kenya vs Eritrea - Africa Cup of Nations - Qualification @virat10" tvg-id="66366" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kenya%20vs%20Eritrea.jpg" group-title="AXS | Sportlink", Kenya vs Eritrea - Africa Cup of Nations - Qualification
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa0eee8e8a66eebd817163d/chunks.m3u8?is_vip=false&token=1790514216-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f209419a67b2518238a6762a1b682197
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
