@@ -7729,11 +7729,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790419024~exp=1790422624~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=98387a6508f0cdb4ea51bc060c582fdc6aaf8cae1098550fa6adeb81d64000a1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790422698~exp=1790426298~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=c74d3de2c5345059cafe2f3135d0d81609fa4eb12e986d8514a3a748e340d4d6
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790419024~exp=1790422624~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=98387a6508f0cdb4ea51bc060c582fdc6aaf8cae1098550fa6adeb81d64000a1
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790419024~exp=1790422624~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=98387a6508f0cdb4ea51bc060c582fdc6aaf8cae1098550fa6adeb81d64000a1"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790422698~exp=1790426298~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=c74d3de2c5345059cafe2f3135d0d81609fa4eb12e986d8514a3a748e340d4d6
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790422698~exp=1790426298~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=c74d3de2c5345059cafe2f3135d0d81609fa4eb12e986d8514a3a748e340d4d6"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1669" tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bengali",Sun Bangla
