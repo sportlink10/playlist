@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "04:05:41 PM 26-09-2026",
-    "generated_at": "2026-09-26 10:40:11",
+    "source_last_updated": "04:15:49 PM 26-09-2026",
+    "generated_at": "2026-09-26 10:55:02",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 42,
@@ -286,6 +286,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249302,
+            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Capital Cruisers vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
+            "team_1": "Capital Cruisers",
+            "team_2": "Ghaziabad Giants",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Football",
             "match_id": 4248164,
             "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
@@ -309,19 +322,6 @@
             "team_2": "Cádiz",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249302,
-            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Capital Cruisers vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
-            "team_1": "Capital Cruisers",
-            "team_2": "Ghaziabad Giants",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -890,6 +890,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249302,
+            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Capital Cruisers vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
+            "team_1": "Capital Cruisers",
+            "team_2": "Ghaziabad Giants",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Football",
             "match_id": 4248164,
             "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
@@ -913,19 +926,6 @@
             "team_2": "Cádiz",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249302,
-            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Capital Cruisers vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
-            "team_1": "Capital Cruisers",
-            "team_2": "Ghaziabad Giants",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 27-09-2026",
             "user-agent": null
         },
         {
