@@ -6365,11 +6365,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/HHDL_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=937e3af54bd55ef4b862296e0319bb80:8868db6c5e57e4330e9304d18745ea5f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790411690~exp=1790415290~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=5320639df9d1d30f939f86fe33f851d01579f32c674554801dd78e3d8db6d94e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790415279~exp=1790418879~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=4d6fbf9a7c845c920af0fdbf09238583f351743e319a43c47efd29ffd8c7e442
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790411690~exp=1790415290~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=5320639df9d1d30f939f86fe33f851d01579f32c674554801dd78e3d8db6d94e
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790411690~exp=1790415290~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=5320639df9d1d30f939f86fe33f851d01579f32c674554801dd78e3d8db6d94e"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790415279~exp=1790418879~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=4d6fbf9a7c845c920af0fdbf09238583f351743e319a43c47efd29ffd8c7e442
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790415279~exp=1790418879~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=4d6fbf9a7c845c920af0fdbf09238583f351743e319a43c47efd29ffd8c7e442"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1322" tvg-name="And Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndFlixHD.png" group-title="English",And Flix HD
@@ -6449,11 +6449,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790411303~exp=1790414903~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=ea2aa8166eef75c9b2f71ad1bd5f62e94518a21d2cc14505464162048da388f6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790414931~exp=1790418531~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=476a98bd5428058afbe3fc15343526f79426e237944c52769157c2ce3d30c1e5
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790411303~exp=1790414903~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=ea2aa8166eef75c9b2f71ad1bd5f62e94518a21d2cc14505464162048da388f6
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790411303~exp=1790414903~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=ea2aa8166eef75c9b2f71ad1bd5f62e94518a21d2cc14505464162048da388f6"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790414931~exp=1790418531~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=476a98bd5428058afbe3fc15343526f79426e237944c52769157c2ce3d30c1e5
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790414931~exp=1790418531~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=476a98bd5428058afbe3fc15343526f79426e237944c52769157c2ce3d30c1e5"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="English",National Geographic HD
@@ -6557,11 +6557,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=284db1a465ee50c081b7fa9735c4e000:26d05a4a82a0d6eb317dd861a06d746c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790411694~exp=1790415294~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=f366dacb6be7f8024d7ecd236036a2d255161dd4aa3e6be5a70effe665e88815
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790415281~exp=1790418881~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=8094a0db59ecb0b3fc63011522b79b77e4eefe07d5ef78de58ddc073e4331783
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790411694~exp=1790415294~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=f366dacb6be7f8024d7ecd236036a2d255161dd4aa3e6be5a70effe665e88815
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790411694~exp=1790415294~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=f366dacb6be7f8024d7ecd236036a2d255161dd4aa3e6be5a70effe665e88815"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790415281~exp=1790418881~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=8094a0db59ecb0b3fc63011522b79b77e4eefe07d5ef78de58ddc073e4331783
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790415281~exp=1790418881~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=8094a0db59ecb0b3fc63011522b79b77e4eefe07d5ef78de58ddc073e4331783"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" group-title="Telugu",Zee Telugu HD
@@ -6593,11 +6593,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e370273ac0f521c8ee529a886f2dc06:c2bc9f42751680a68c006986fbf2f039
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790411702~exp=1790415302~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=f311c9c95c2bd213cb6928df2f3e989994144041ba0beef1ba762c421c541fc4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790415287~exp=1790418887~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=9af816a62eb787845725493a91afe17f8c49979f9d8572a95d40722e245d467d
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790411702~exp=1790415302~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=f311c9c95c2bd213cb6928df2f3e989994144041ba0beef1ba762c421c541fc4
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790411702~exp=1790415302~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=f311c9c95c2bd213cb6928df2f3e989994144041ba0beef1ba762c421c541fc4"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790415287~exp=1790418887~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=9af816a62eb787845725493a91afe17f8c49979f9d8572a95d40722e245d467d
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790415287~exp=1790418887~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=9af816a62eb787845725493a91afe17f8c49979f9d8572a95d40722e245d467d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Entertainment",Big Magic
