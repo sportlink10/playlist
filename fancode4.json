@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:07:05 PM 26-09-2026",
-    "generated_at": "2026-09-26 12:40:07",
+    "source_last_updated": "06:27:20 PM 26-09-2026",
+    "generated_at": "2026-09-26 13:00:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 42,
-    "live_matches_count": 7,
-    "upcoming_matches_count": 35,
+    "live_matches_count": 8,
+    "upcoming_matches_count": 34,
     "matches": [
         {
             "event_category": "Cricket",
@@ -144,6 +144,25 @@
             ]
         },
         {
+            "event_category": "Golf",
+            "match_id": "4249106_ENG",
+            "title": "Presidents Cup 2026 [English]",
+            "match_name": "Day 3 - World Feed [English]",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "LIVE",
+            "startTime": "06:30:00 PM 26-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249106_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4249582,
             "title": "Rourkela Superstars vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
@@ -271,19 +290,6 @@
             "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Golf",
-            "match_id": 4249106,
-            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -732,6 +738,25 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139496_TAM/tamil.m3u8"
                 }
             ]
+        },
+        {
+            "event_category": "Golf",
+            "match_id": "4249106_ENG",
+            "title": "Presidents Cup 2026 [English]",
+            "match_name": "Day 3 - World Feed [English]",
+            "event_name": "Presidents Cup 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Chicago, Illinois",
+            "status": "LIVE",
+            "startTime": "06:30:00 PM 26-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249106_ENG/english.m3u8"
+                }
+            ]
         }
     ],
     "upcoming_matches": [
@@ -863,19 +888,6 @@
             "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Golf",
-            "match_id": 4249106,
-            "title": "Day 3 - World Feed vs Chicago, Illinois (Presidents Cup 2026)",
-            "match_name": "Day 3 - World Feed",
-            "event_name": "Presidents Cup 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Chicago, Illinois",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
