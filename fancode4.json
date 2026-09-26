@@ -2,33 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "11:43:09 AM 26-09-2026",
-    "generated_at": "2026-09-26 06:15:39",
+    "source_last_updated": "11:53:15 AM 26-09-2026",
+    "generated_at": "2026-09-26 06:35:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 3,
-    "upcoming_matches_count": 37,
+    "live_matches_count": 2,
+    "upcoming_matches_count": 38,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249998_ENG",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Sambalpur Warriors [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/OD.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Sambalpur Warriors",
-            "status": "LIVE",
-            "startTime": "10:30:00 AM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249998_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Tennis",
             "match_id": "4248540_ENG",
@@ -547,28 +528,22 @@
             "status": "UPCOMING",
             "startTime": "05:00:00 AM 29-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249529,
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 AM 29-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249998_ENG",
-            "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Sambalpur Warriors [English]",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/OD.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Sambalpur Warriors",
-            "status": "LIVE",
-            "startTime": "10:30:00 AM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249998_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Tennis",
             "match_id": "4248540_ENG",
@@ -1088,6 +1063,19 @@
             "team_2": "Queensland Fire",
             "status": "UPCOMING",
             "startTime": "05:00:00 AM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249529,
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 AM 29-09-2026",
             "user-agent": null
         }
     ]
