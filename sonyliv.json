@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:54:58 26-09-2026",
+    "last update time": "09:15:13 26-09-2026",
     "matches": [
-        {
-            "event_category": "Sports",
-            "isLive": true,
-            "contentId": "1090541378_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Lin vs Manush - Men's Singles - Table Tennis - 26 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
-        },
         {
             "event_category": "Squash",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 26 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb"
         },
         {
             "event_category": "Squash",
@@ -38,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 26 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb"
         },
         {
             "event_category": "Squash",
@@ -51,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 26 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb"
         },
         {
             "event_category": "Squash",
@@ -64,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 26 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb"
         },
         {
             "event_category": "Squash",
@@ -77,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 26 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790437512~acl=/*~id=47328573640823992964935493597921~hmac=2928fbcfd2beab7dec497253215c8e2b8a55f30b13e5c537a0f8088cd964b4bb"
         },
         {
             "event_category": "Sports",
