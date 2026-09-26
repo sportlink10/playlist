@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "09:49:24 PM 26-09-2026",
-    "generated_at": "2026-09-26 16:25:09",
+    "source_last_updated": "09:59:30 PM 26-09-2026",
+    "generated_at": "2026-09-26 16:40:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 6,
-    "upcoming_matches_count": 34,
+    "live_matches_count": 5,
+    "upcoming_matches_count": 35,
     "matches": [
         {
             "event_category": "Cricket",
@@ -83,25 +83,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249270_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248547_ENG",
-            "title": "ATP 250 - Hangzhou Open 2026 [English]",
-            "match_name": "Day 4 [English]",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Hangzhou, China",
-            "status": "LIVE",
-            "startTime": "11:00:00 AM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248547_ENG/english.m3u8"
                 }
             ]
         },
@@ -565,6 +546,19 @@
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 29-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249587,
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 29-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -641,25 +635,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249270_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248547_ENG",
-            "title": "ATP 250 - Hangzhou Open 2026 [English]",
-            "match_name": "Day 4 [English]",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Hangzhou, China",
-            "status": "LIVE",
-            "startTime": "11:00:00 AM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248547_ENG/english.m3u8"
                 }
             ]
         },
@@ -1124,6 +1099,19 @@
             "team_2": "Mohun Bagan Super Giant",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249587,
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 29-09-2026",
             "user-agent": null
         }
     ]
