@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "04:15:49 PM 26-09-2026",
-    "generated_at": "2026-09-26 10:55:02",
+    "source_last_updated": "04:35:59 PM 26-09-2026",
+    "generated_at": "2026-09-26 11:10:12",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 42,
-    "live_matches_count": 9,
-    "upcoming_matches_count": 33,
+    "live_matches_count": 7,
+    "upcoming_matches_count": 35,
     "matches": [
         {
             "event_category": "Cricket",
@@ -45,44 +45,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249583_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249526_ENG",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "Sreenidi Deccan FC vs NorthEast United FC [English]",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "NorthEast United FC",
-            "status": "LIVE",
-            "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249526_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248540_ENG",
-            "title": "ATP 250 - Chengdu Open 2026 [English]",
-            "match_name": "Day 4 [English]",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 4",
-            "team_2": "Chengdu, China",
-            "status": "LIVE",
-            "startTime": "10:30:00 AM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248540_ENG/english.m3u8"
                 }
             ]
         },
@@ -260,6 +222,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249302,
+            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Capital Cruisers vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
+            "team_1": "Capital Cruisers",
+            "team_2": "Ghaziabad Giants",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Football",
             "match_id": 4248484,
             "title": "Charlton Athletic F.C Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
@@ -283,19 +258,6 @@
             "team_2": "Brighton and Hove Albion Women",
             "status": "UPCOMING",
             "startTime": "09:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249302,
-            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Capital Cruisers vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
-            "team_1": "Capital Cruisers",
-            "team_2": "Ghaziabad Giants",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -609,6 +571,32 @@
             "status": "UPCOMING",
             "startTime": "09:30:00 AM 29-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249530,
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250039,
+            "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
+            "match_name": "Manoharpur Lions vs Saranda Worriers",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Manoharpur Lions",
+            "team_2": "Saranda Worriers",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 29-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -647,44 +635,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249583_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249526_ENG",
-            "title": "IFA Shield 2026 [English]",
-            "match_name": "Sreenidi Deccan FC vs NorthEast United FC [English]",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "NorthEast United FC",
-            "status": "LIVE",
-            "startTime": "02:30:00 PM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249526_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248540_ENG",
-            "title": "ATP 250 - Chengdu Open 2026 [English]",
-            "match_name": "Day 4 [English]",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 4",
-            "team_2": "Chengdu, China",
-            "status": "LIVE",
-            "startTime": "10:30:00 AM 26-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248540_ENG/english.m3u8"
                 }
             ]
         },
@@ -864,6 +814,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249302,
+            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Capital Cruisers vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
+            "team_1": "Capital Cruisers",
+            "team_2": "Ghaziabad Giants",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Football",
             "match_id": 4248484,
             "title": "Charlton Athletic F.C Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
@@ -887,19 +850,6 @@
             "team_2": "Brighton and Hove Albion Women",
             "status": "UPCOMING",
             "startTime": "09:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249302,
-            "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Capital Cruisers vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249302_53073_CRU_GGT_fc-web.jpg",
-            "team_1": "Capital Cruisers",
-            "team_2": "Ghaziabad Giants",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -1212,6 +1162,32 @@
             "team_2": "South Australian Scorpions",
             "status": "UPCOMING",
             "startTime": "09:30:00 AM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249530,
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250039,
+            "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
+            "match_name": "Manoharpur Lions vs Saranda Worriers",
+            "event_name": "West Singhbhum T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Manoharpur Lions",
+            "team_2": "Saranda Worriers",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 29-09-2026",
             "user-agent": null
         }
     ]
