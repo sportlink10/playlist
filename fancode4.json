@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "09:11:33 AM 26-09-2026",
-    "generated_at": "2026-09-26 03:45:08",
+    "source_last_updated": "09:21:40 AM 26-09-2026",
+    "generated_at": "2026-09-26 03:55:11",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -102,19 +102,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4248485,
-            "title": "London City Lionesses vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
-            "match_name": "London City Lionesses vs Brighton and Hove Albion Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248485_53038_LCL_BHA-W_fc-web.jpg",
-            "team_1": "London City Lionesses",
-            "team_2": "Brighton and Hove Albion Women",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249574,
             "title": "Puri Titans vs Kataka Panthers (Odisha T20 League 2026)",
@@ -125,6 +112,19 @@
             "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "10:30:00 AM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248485,
+            "title": "London City Lionesses vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
+            "match_name": "London City Lionesses vs Brighton and Hove Albion Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248485_53038_LCL_BHA-W_fc-web.jpg",
+            "team_1": "London City Lionesses",
+            "team_2": "Brighton and Hove Albion Women",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
@@ -625,19 +625,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4248485,
-            "title": "London City Lionesses vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
-            "match_name": "London City Lionesses vs Brighton and Hove Albion Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248485_53038_LCL_BHA-W_fc-web.jpg",
-            "team_1": "London City Lionesses",
-            "team_2": "Brighton and Hove Albion Women",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 PM 26-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249574,
             "title": "Puri Titans vs Kataka Panthers (Odisha T20 League 2026)",
@@ -648,6 +635,19 @@
             "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "10:30:00 AM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248485,
+            "title": "London City Lionesses vs Brighton and Hove Albion Women (Barclays Women's Super League 2026-27)",
+            "match_name": "London City Lionesses vs Brighton and Hove Albion Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248485_53038_LCL_BHA-W_fc-web.jpg",
+            "team_1": "London City Lionesses",
+            "team_2": "Brighton and Hove Albion Women",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 26-09-2026",
             "user-agent": null
         },
         {
