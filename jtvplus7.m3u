@@ -1033,11 +1033,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBollywood_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80e87d88c856547a917ed83f62656cd7:c68fcd4330e5f188793df509bb5e19a6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790415823~exp=1790419423~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=47e1ba5d59b6d75d8ecfc9c9f5ff1dc8050a4a08f83b3b39fb0e74068638dba8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790419340~exp=1790422940~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=6ac1de1c8e8cac5f2b9735b61ad5136428823d58ae82248d94e58e8316f4294c
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790415823~exp=1790419423~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=47e1ba5d59b6d75d8ecfc9c9f5ff1dc8050a4a08f83b3b39fb0e74068638dba8
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790415823~exp=1790419423~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=47e1ba5d59b6d75d8ecfc9c9f5ff1dc8050a4a08f83b3b39fb0e74068638dba8"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790419340~exp=1790422940~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=6ac1de1c8e8cac5f2b9735b61ad5136428823d58ae82248d94e58e8316f4294c
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790419340~exp=1790422940~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=6ac1de1c8e8cac5f2b9735b61ad5136428823d58ae82248d94e58e8316f4294c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAction_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="489" tvg-name="CNBC TV18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18.png" group-title="English",CNBC TV18
@@ -7729,11 +7729,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790415504~exp=1790419104~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=e85074ea8c0456d6e9cd58e63f5eec76de86cb397cdb94dc7b723faf35390f9a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790419024~exp=1790422624~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=98387a6508f0cdb4ea51bc060c582fdc6aaf8cae1098550fa6adeb81d64000a1
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790415504~exp=1790419104~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=e85074ea8c0456d6e9cd58e63f5eec76de86cb397cdb94dc7b723faf35390f9a
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790415504~exp=1790419104~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=e85074ea8c0456d6e9cd58e63f5eec76de86cb397cdb94dc7b723faf35390f9a"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790419024~exp=1790422624~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=98387a6508f0cdb4ea51bc060c582fdc6aaf8cae1098550fa6adeb81d64000a1
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790419024~exp=1790422624~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=98387a6508f0cdb4ea51bc060c582fdc6aaf8cae1098550fa6adeb81d64000a1"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1669" tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bengali",Sun Bangla
