@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (3 channels) =====
+#===== Fancode | Sportlink (4 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 26 September 2026 at 10:21:23 am
+#DATE:- Saturday, 26 September 2026 at 10:49:15 am
 
 #EXTINF:-1 tvg-id="4249998" tvg-name="Rourkela Superstars Vs Sambalpur Warriors @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/OD.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Rourkela Superstars Vs Sambalpur Warriors
 https://dai-fancode.pages.dev/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -10,25 +10,31 @@ https://dai-fancode.pages.dev/mumbai/4249998_english_hls_5a321c403c22039_1ta-di_
 #EXTINF:-1 tvg-id="4248540" tvg-name="Day 4 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 4
 https://dai-fancode.pages.dev/mumbai/4248540_english_hls_3e77a8d72330957_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (5 channels) =====
+#EXTINF:-1 tvg-id="4248547" tvg-name="Day 4 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 4
+https://dai-fancode.pages.dev/mumbai/4248547_english_hls_700559ec8061753_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#===== SonyLIV | Sportlink (6 channels) =====
+#EXTINF:-1 tvg-name="India In Action - Squash - 26 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024867/1790386159824390_AG26_Squash_Womens_Singles_SF_Anahat_vs_Watanabe_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India In Action - Squash - 26 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790443589~acl=/*~id=99420421918830619768829011841569~hmac=6612fd5c814b886fb1783d83b596a1c76b301a7658c426cd5d5371046c878a92
+
 #EXTINF:-1 tvg-name="India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790441768~acl=/*~id=80635446698051480636965478835203~hmac=ca21452cf9fdce0f6743dc3ab846b7408b0d89285b41b39c04a1018c795f1005
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790443589~acl=/*~id=99420421918830619768829011841569~hmac=6612fd5c814b886fb1783d83b596a1c76b301a7658c426cd5d5371046c878a92
 
 #EXTINF:-1 tvg-name="India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790441768~acl=/*~id=80635446698051480636965478835203~hmac=ca21452cf9fdce0f6743dc3ab846b7408b0d89285b41b39c04a1018c795f1005
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790443589~acl=/*~id=99420421918830619768829011841569~hmac=6612fd5c814b886fb1783d83b596a1c76b301a7658c426cd5d5371046c878a92
 
 #EXTINF:-1 tvg-name="India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790441768~acl=/*~id=80635446698051480636965478835203~hmac=ca21452cf9fdce0f6743dc3ab846b7408b0d89285b41b39c04a1018c795f1005
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790443589~acl=/*~id=99420421918830619768829011841569~hmac=6612fd5c814b886fb1783d83b596a1c76b301a7658c426cd5d5371046c878a92
 
 #EXTINF:-1 tvg-name="India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790441768~acl=/*~id=80635446698051480636965478835203~hmac=ca21452cf9fdce0f6743dc3ab846b7408b0d89285b41b39c04a1018c795f1005
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790443589~acl=/*~id=99420421918830619768829011841569~hmac=6612fd5c814b886fb1783d83b596a1c76b301a7658c426cd5d5371046c878a92
 
 #EXTINF:-1 tvg-name="India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790441768~acl=/*~id=80635446698051480636965478835203~hmac=ca21452cf9fdce0f6743dc3ab846b7408b0d89285b41b39c04a1018c795f1005
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790443589~acl=/*~id=99420421918830619768829011841569~hmac=6612fd5c814b886fb1783d83b596a1c76b301a7658c426cd5d5371046c878a92
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 AM 26-09-2026
+#LAST_UPDATE:11:32 AM 26-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -39,11 +45,11 @@ https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5aab7e7ac344b32e7e1acea2d92c78f3:d6c5d1c0ed77d1f1a0a87af823591c78
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhys43gbgu/out/v1/ec2d6860db184a459d59d66c5e560b8b/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xhys43gbgu/out/v1/ec2d6860db184a459d59d66c5e560b8b/cenc.mpd
 
 #===== Prime Video | Sportlink (5 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:32 AM 26-09-2026
+#LAST_UPDATE:11:32 AM 26-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -54,14 +60,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhys43gbgu/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HB7CZQ5J" tvg-name="St. Ignatius College at Sacred Heart Cathedral @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.de23b758-a3e1-4975-bf7d-1eb3c147f381/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",St. Ignatius College at Sacred Heart Cathedral
+#EXTINF:-1 tvg-id="B0HFHJZTYX" tvg-name="Predator Pro Billiard Series: Vietnam @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/18/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Predator Pro Billiard Series: Vietnam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H5KQ8TQ7" tvg-name="Weightlifting 08 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.16a02cd8-c541-4403-9203-c41f3db65758/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Weightlifting 08
 #KODIPROP:inputstream=inputstream.adaptive
@@ -70,43 +76,35 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HJQYPYYM" tvg-name="Athletics 07 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.1affb814-8a1f-4b15-91e7-419a96bdeea9/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Athletics 07
+#EXTINF:-1 tvg-id="B0HJLQ77VN" tvg-name="Tennis Today Live-Singapore-WTA, Seoul-WTA Semifinals; Hangzhou-ATP & Chengdu-ATP Early Rounds @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.d377550b-f356-4528-8596-21c8284be518/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Tennis Today Live-Singapore-WTA, Seoul-WTA Semifinals; Hangzhou-ATP & Chengdu-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
-#===== AXS | Sportlink (7 channels) =====
+#===== AXS | Sportlink (5 channels) =====
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:02:27 AM 26-09-2026
+#last update time: 11:32:29 AM 26-09-2026
 
 #EXTINF:-1 tvg-name="MMA MEXICO 9 - MMA @virat10" tvg-id="68324" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MMA%20MEXICO%209.jpg" group-title="AXS | Sportlink", MMA MEXICO 9 - MMA
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/53767/720p/chunks.m3u8?is_vip=false&token=1790485349-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b25e537e9b6be8079143361fe1075b5f
-
-#EXTINF:-1 tvg-name="Club Tijuana vs Atlas - Liga MX [Server 1] @virat10" tvg-id="66303" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Tijuana%20vs%20Atlas.jpg" group-title="AXS | Sportlink", Club Tijuana vs Atlas - Liga MX [Server 1]
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9ea/chunks.m3u8?is_vip=false&token=1790485352-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3a0aad7c4322c1a960f4191c7b4070a1
-
-#EXTINF:-1 tvg-name="Club Tijuana vs Atlas - Liga MX [Server 2] @virat10" tvg-id="66303" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Tijuana%20vs%20Atlas.jpg" group-title="AXS | Sportlink", Club Tijuana vs Atlas - Liga MX [Server 2]
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9ea-hd/chunks.m3u8?is_vip=false&token=1790485352-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c1f33d31ca218d70a1ceffe240469a47
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53767/720p/chunks.m3u8?is_vip=false&token=1790487152-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ffbe11be4a308d7d167f3079507d7f74
 
 #EXTINF:-1 tvg-name="WTA Seoul - WTA Seoul @virat10" tvg-id="83902" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Seoul.jpg" group-title="AXS | Sportlink", WTA Seoul - WTA Seoul
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790485355-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9af471acf07d1aad26deba9167bae0e5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790487155-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f450e1cfaa7ed53c0d29e6c1fa8e23a5
 
 #EXTINF:-1 tvg-name="Qualifying: 6 Hours of Fuji - WEC @virat10" tvg-id="68348" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Qualifying%206%20Hours%20of%20Fuji.jpg" group-title="AXS | Sportlink", Qualifying: 6 Hours of Fuji - WEC
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1790485357-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fb3838d364c5c1519220b709564014c9
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1790487158-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-045771963e74439496c1a26c5860028c
 
 #EXTINF:-1 tvg-name="Canterbury vs Southland - NPC @virat10" tvg-id="68338" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury%20vs%20Southland.jpg" group-title="AXS | Sportlink", Canterbury vs Southland - NPC
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1790485360-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-ea3fdc3154bfe2307248b85a81aa1c19
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1790487161-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-67102dcda7466fa3980ea97959f41986
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
