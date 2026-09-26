@@ -7729,11 +7729,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790426300~exp=1790429900~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=2959f65dd9d31202ca46c2c03473ba9957973ac64a641ebf42e575c55e3e2917
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790429808~exp=1790433408~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=844a976c718e724bd8821d3423c781c4c735ac31481a85c0b732259444a842ac
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790426300~exp=1790429900~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=2959f65dd9d31202ca46c2c03473ba9957973ac64a641ebf42e575c55e3e2917
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790426300~exp=1790429900~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=2959f65dd9d31202ca46c2c03473ba9957973ac64a641ebf42e575c55e3e2917"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790429808~exp=1790433408~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=844a976c718e724bd8821d3423c781c4c735ac31481a85c0b732259444a842ac
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790429808~exp=1790433408~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=844a976c718e724bd8821d3423c781c4c735ac31481a85c0b732259444a842ac"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1669" tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bengali",Sun Bangla
@@ -8805,11 +8805,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790408158~exp=1790429758~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=ea40b5ed550233ba9a6c6e130b4f0059d9266eadc7332f5627a9cf0d26d136c7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Sayan&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1790429775~exp=1790451375~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=1a1396c636d7b4742789961012df7a0e89c2c39854330887b3052852138f6366
 #EXTVLCOPT:http-user-agent=Sayan
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1790408158~exp=1790429758~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=ea40b5ed550233ba9a6c6e130b4f0059d9266eadc7332f5627a9cf0d26d136c7
-#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790408158~exp=1790429758~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=ea40b5ed550233ba9a6c6e130b4f0059d9266eadc7332f5627a9cf0d26d136c7"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1790429775~exp=1790451375~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=1a1396c636d7b4742789961012df7a0e89c2c39854330887b3052852138f6366
+#EXTHTTP:{"User-Agent": "Sayan", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1790429775~exp=1790451375~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=1a1396c636d7b4742789961012df7a0e89c2c39854330887b3052852138f6366"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3273" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="Sports",Star Sports 2 Tamil HD
