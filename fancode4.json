@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "08:48:45 PM 26-09-2026",
-    "generated_at": "2026-09-26 15:25:05",
+    "source_last_updated": "09:08:55 PM 26-09-2026",
+    "generated_at": "2026-09-26 15:45:08",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -146,19 +146,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249584,
-            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4248164,
             "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
@@ -182,6 +169,19 @@
             "team_2": "Cádiz",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249584,
+            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Sambalpur Warriors",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -688,19 +688,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249584,
-            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4248164,
             "title": "Oldham Athletic vs Salford City (League Two 2026-27)",
@@ -724,6 +711,19 @@
             "team_2": "Cádiz",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249584,
+            "title": "Puri Titans vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249584_53080_PUT_SAW_fc-web_1790170352055.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Sambalpur Warriors",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
